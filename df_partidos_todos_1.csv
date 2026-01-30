@@ -1,0 +1,557 @@
+Fecha,Hora,Competicion,Local,Goles_local,Visitante,Goles_visitante,Estadio,Ciudad,En_casa,Total_goles_partido
+MIÉ  28.01.2026,21:00,UEFA Champions League,Athletic Club,2,Sporting portugal,3,"('San Mamés', 53289)",Bilbao,True,5
+SÁB  24.01.2026,18:30,LALIGA EA SPORTS,Sevilla FC,2,Athletic Club,1,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,False,3
+MIÉ  21.01.2026,21:00,UEFA Champions League,Atalanta,2,Athletic Club,3,,,False,5
+SÁB  17.01.2026,16:15,LALIGA EA SPORTS,RCD Mallorca,3,Athletic Club,2,"('Son Moix', 23142)",Palma de Mallorca,False,5
+MAR  13.01.2026,21:00,Copa del Rey,Cultural y deportiva leonesa,3,Athletic Club,4,,,False,7
+MIÉ  07.01.2026,20:00,Supercopa de España,FC Barcelona,5,Athletic Club,0,,,False,5
+SÁB  03.01.2026,16:15,LALIGA EA SPORTS,CA Osasuna,1,Athletic Club,1,"('El Sadar', 23576)",Pamplona,False,2
+LUN  22.12.2025,21:00,LALIGA EA SPORTS,Athletic Club,1,RCD Espanyol,2,"('San Mamés', 53289)",Bilbao,True,3
+JUE  18.12.2025,19:00,Copa del Rey,Ourense cf,0,Athletic Club,1,,,False,1
+DOM  14.12.2025,16:15,LALIGA EA SPORTS,Celta de Vigo,2,Athletic Club,0,"('Abanca-Balaídos', 24870)",Vigo,False,2
+MIÉ  10.12.2025,21:00,UEFA Champions League,Athletic Club,0,Psg,0,"('San Mamés', 53289)",Bilbao,True,0
+SÁB  06.12.2025,21:00,LALIGA EA SPORTS,Athletic Club,1,Atlético de Madrid,0,"('San Mamés', 53289)",Bilbao,True,1
+MIÉ  03.12.2025,19:00,LALIGA EA SPORTS,Athletic Club,0,Real Madrid,3,"('San Mamés', 53289)",Bilbao,True,3
+SÁB  29.11.2025,18:30,LALIGA EA SPORTS,Levante UD,0,Athletic Club,2,"('Ciudad de Valencia', 26354)",Valencia,False,2
+MAR  25.11.2025,21:00,UEFA Champions League,Slavia praha,0,Athletic Club,0,,,False,0
+SÁB  22.11.2025,16:15,LALIGA EA SPORTS,FC Barcelona,4,Athletic Club,0,"('Spotify Camp Nou', 99354)",Barcelona,False,4
+DOM  09.11.2025,14:00,LALIGA EA SPORTS,Athletic Club,1,Real Oviedo,0,"('San Mamés', 53289)",Bilbao,True,1
+MIÉ  05.11.2025,21:00,UEFA Champions League,Newcastle,2,Athletic Club,0,,,False,2
+SÁB  01.11.2025,18:30,LALIGA EA SPORTS,Real Sociedad,3,Athletic Club,2,"('Estadio de Anoeta', 39313)",San Sebastián,False,5
+SÁB  25.10.2025,18:30,LALIGA EA SPORTS,Athletic Club,0,Getafe CF,1,"('San Mamés', 53289)",Bilbao,True,1
+MIÉ  22.10.2025,18:45,UEFA Champions League,Athletic Club,3,Qarabağ,1,"('San Mamés', 53289)",Bilbao,True,4
+DOM  19.10.2025,14:00,LALIGA EA SPORTS,Elche CF,0,Athletic Club,0,"('Martínez Valero', 33732)",Elche,False,0
+SÁB  04.10.2025,18:30,LALIGA EA SPORTS,Athletic Club,2,RCD Mallorca,1,"('San Mamés', 53289)",Bilbao,True,3
+MIÉ  01.10.2025,21:00,UEFA Champions League,Borussia dortmund,4,Athletic Club,1,,,False,5
+SÁB  27.09.2025,21:00,LALIGA EA SPORTS,Villarreal CF,1,Athletic Club,0,"('La Cerámica', 23500)",Villarreal,False,1
+MAR  23.09.2025,19:00,LALIGA EA SPORTS,Athletic Club,1,Girona FC,1,"('San Mamés', 53289)",Bilbao,True,2
+SÁB  20.09.2025,21:00,LALIGA EA SPORTS,Valencia CF,2,Athletic Club,0,"('Mestalla', 49430)",Valencia,False,2
+MAR  16.09.2025,18:45,UEFA Champions League,Athletic Club,0,Arsenal,2,"('San Mamés', 53289)",Bilbao,True,2
+SÁB  13.09.2025,18:30,LALIGA EA SPORTS,Athletic Club,0,Deportivo Alavés,1,"('San Mamés', 53289)",Bilbao,True,1
+DOM  31.08.2025,19:00,LALIGA EA SPORTS,Real Betis,1,Athletic Club,2,"('Estadio de La Cartuja', 68887)",Sevilla,False,3
+LUN  25.08.2025,19:30,LALIGA EA SPORTS,Athletic Club,1,Rayo Vallecano,0,"('San Mamés', 53289)",Bilbao,True,1
+DOM  17.08.2025,19:30,LALIGA EA SPORTS,Athletic Club,3,Sevilla FC,2,"('San Mamés', 53289)",Bilbao,True,5
+MIE 28.01.2026,21:00,UEFA Champions League,Atlético de Madrid,1,Bodø/glimt,2,"('Riyadh Air Metropolitano', 70460)",Madrid,True,3
+DOM 25.01.2026,14:00,LALIGA EA SPORTS,Atlético de Madrid,3,RCD Mallorca,0,"('Riyadh Air Metropolitano', 70460)",Madrid,True,3
+MIE 21.01.2026,18:45,UEFA Champions League,Galatasaray,1,Atlético de Madrid,1,,,False,2
+DOM 18.01.2026,16:15,LALIGA EA SPORTS,Atlético de Madrid,1,Deportivo Alavés,0,"('Riyadh Air Metropolitano', 70460)",Madrid,True,1
+MAR 13.01.2026,21:00,Copa del Rey,Rc deportivo,0,Atlético de Madrid,1,,,False,1
+JUE 08.01.2026,20:00,Supercopa de España,Atlético de Madrid,1,Real Madrid,2,"('Riyadh Air Metropolitano', 70460)",Madrid,True,3
+DOM 04.01.2026,21:00,LALIGA EA SPORTS,Real Sociedad,1,Atlético de Madrid,1,"('Estadio de Anoeta', 39313)",San Sebastián,False,2
+DOM 21.12.2025,14:00,LALIGA EA SPORTS,Girona FC,0,Atlético de Madrid,3,"('Municipal de Montilivi', 14624)",Gerona,False,3
+MIE 17.12.2025,19:00,Copa del Rey,Cd atletico baleares,2,Atlético de Madrid,3,,,False,5
+SAB 13.12.2025,14:00,LALIGA EA SPORTS,Atlético de Madrid,2,Valencia CF,1,"('Riyadh Air Metropolitano', 70460)",Madrid,True,3
+MAR 09.12.2025,21:00,UEFA Champions League,Psv,2,Atlético de Madrid,3,,,False,5
+SAB 06.12.2025,21:00,LALIGA EA SPORTS,Athletic Club,1,Atlético de Madrid,0,"('San Mamés', 53289)",Bilbao,False,1
+MAR 02.12.2025,21:00,LALIGA EA SPORTS,FC Barcelona,3,Atlético de Madrid,1,"('Spotify Camp Nou', 99354)",Barcelona,False,4
+SAB 29.11.2025,21:00,LALIGA EA SPORTS,Atlético de Madrid,2,Real Oviedo,0,"('Riyadh Air Metropolitano', 70460)",Madrid,True,2
+MIE 26.11.2025,21:00,UEFA Champions League,Atlético de Madrid,2,Inter,1,"('Riyadh Air Metropolitano', 70460)",Madrid,True,3
+DOM 23.11.2025,18:30,LALIGA EA SPORTS,Getafe CF,0,Atlético de Madrid,1,"('Coliseum', 16500)",Getafe,False,1
+SAB 08.11.2025,18:30,LALIGA EA SPORTS,Atlético de Madrid,3,Levante UD,1,"('Riyadh Air Metropolitano', 70460)",Madrid,True,4
+MAR 04.11.2025,21:00,UEFA Champions League,Atlético de Madrid,3,Union sg,1,"('Riyadh Air Metropolitano', 70460)",Madrid,True,4
+SAB 01.11.2025,16:15,LALIGA EA SPORTS,Atlético de Madrid,3,Sevilla FC,0,"('Riyadh Air Metropolitano', 70460)",Madrid,True,3
+LUN 27.10.2025,21:00,LALIGA EA SPORTS,Real Betis,0,Atlético de Madrid,2,"('Estadio de La Cartuja', 68887)",Sevilla,False,2
+MAR 21.10.2025,21:00,UEFA Champions League,Arsenal,4,Atlético de Madrid,0,,,False,4
+SAB 18.10.2025,21:00,LALIGA EA SPORTS,Atlético de Madrid,1,CA Osasuna,0,"('Riyadh Air Metropolitano', 70460)",Madrid,True,1
+DOM 05.10.2025,21:00,LALIGA EA SPORTS,Celta de Vigo,1,Atlético de Madrid,1,"('Abanca-Balaídos', 24870)",Vigo,False,2
+MAR 30.09.2025,21:00,UEFA Champions League,Atlético de Madrid,5,Eintracht,1,"('Riyadh Air Metropolitano', 70460)",Madrid,True,6
+SAB 27.09.2025,16:15,LALIGA EA SPORTS,Atlético de Madrid,5,Real Madrid,2,"('Riyadh Air Metropolitano', 70460)",Madrid,True,7
+MIE 24.09.2025,21:30,LALIGA EA SPORTS,Atlético de Madrid,3,Rayo Vallecano,2,"('Riyadh Air Metropolitano', 70460)",Madrid,True,5
+DOM 21.09.2025,16:15,LALIGA EA SPORTS,RCD Mallorca,1,Atlético de Madrid,1,"('Son Moix', 23142)",Palma de Mallorca,False,2
+MIE 17.09.2025,21:00,UEFA Champions League,Liverpool,3,Atlético de Madrid,2,,,False,5
+SAB 13.09.2025,21:00,LALIGA EA SPORTS,Atlético de Madrid,2,Villarreal CF,0,"('Riyadh Air Metropolitano', 70460)",Madrid,True,2
+SAB 30.08.2025,17:00,LALIGA EA SPORTS,Deportivo Alavés,1,Atlético de Madrid,1,"('Mendizorroza', 20320)",Vitoria,False,2
+SAB 23.08.2025,19:30,LALIGA EA SPORTS,Atlético de Madrid,1,Elche CF,1,"('Riyadh Air Metropolitano', 70460)",Madrid,True,2
+DOM 17.08.2025,21:30,LALIGA EA SPORTS,RCD Espanyol,2,Atlético de Madrid,1,"('RCDE Stadium', 40000)",Cornellá de Llobregat,False,3
+LUN 23.06.2025,21:00,Mundial de Clubes FIFA,Atlético de Madrid,1,Botafogo,0,"('Riyadh Air Metropolitano', 70460)",Madrid,True,1
+VIE 20.06.2025,00:00,Mundial de Clubes FIFA,Seattle sounders fc,1,Atlético de Madrid,3,,,False,4
+DOM 15.06.2025,21:00,Mundial de Clubes FIFA,Psg,4,Atlético de Madrid,0,,,False,4
+SAB 24.01.2026,14:00,LALIGA EA SPORTS,Rayo Vallecano,1,CA Osasuna,3,"('Estadio de Vallecas', 14708)",Madrid,False,4
+SAB 17.01.2026,18:30,LALIGA EA SPORTS,CA Osasuna,3,Real Oviedo,2,"('El Sadar', 23576)",Pamplona,True,5
+MAR 13.01.2026,21:00,Copa del Rey,Real Sociedad,2,CA Osasuna,2,,,False,4
+SAB 10.01.2026,18:30,LALIGA EA SPORTS,Girona FC,1,CA Osasuna,0,"('Municipal de Montilivi', 14624)",Gerona,False,1
+SAB 03.01.2026,16:15,LALIGA EA SPORTS,CA Osasuna,1,Athletic Club,1,"('El Sadar', 23576)",Pamplona,True,2
+SAB 20.12.2025,18:30,LALIGA EA SPORTS,CA Osasuna,3,Deportivo Alavés,0,"('El Sadar', 23576)",Pamplona,True,3
+MIE 17.12.2025,19:00,Copa del Rey,Sd huesca,2,CA Osasuna,4,,,False,6
+SAB 13.12.2025,18:30,LALIGA EA SPORTS,FC Barcelona,2,CA Osasuna,0,"('Spotify Camp Nou', 99354)",Barcelona,False,2
+LUN 08.12.2025,21:00,LALIGA EA SPORTS,CA Osasuna,2,Levante UD,0,"('El Sadar', 23576)",Pamplona,True,2
+MAR 02.12.2025,19:00,Copa del Rey,Ebro,3,CA Osasuna,5,,,False,8
+SAB 29.11.2025,14:00,LALIGA EA SPORTS,RCD Mallorca,2,CA Osasuna,2,"('Son Moix', 23142)",Palma de Mallorca,False,4
+SAB 22.11.2025,18:30,LALIGA EA SPORTS,CA Osasuna,1,Real Sociedad,3,"('El Sadar', 23576)",Pamplona,True,4
+SAB 08.11.2025,16:15,LALIGA EA SPORTS,Sevilla FC,1,CA Osasuna,0,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,False,1
+LUN 03.11.2025,21:00,LALIGA EA SPORTS,Real Oviedo,0,CA Osasuna,0,"('Carlos Tartiere', 30500)",Oviedo,False,0
+MIE 29.10.2025,19:00,Copa del Rey,Cd sant jordi,0,CA Osasuna,5,,,False,5
+DOM 26.10.2025,18:30,LALIGA EA SPORTS,CA Osasuna,2,Celta de Vigo,3,"('El Sadar', 23576)",Pamplona,True,5
+SAB 18.10.2025,21:00,LALIGA EA SPORTS,Atlético de Madrid,1,CA Osasuna,0,"('Riyadh Air Metropolitano', 70460)",Madrid,False,1
+VIE 03.10.2025,21:00,LALIGA EA SPORTS,CA Osasuna,2,Getafe CF,1,"('El Sadar', 23576)",Pamplona,True,3
+DOM 28.09.2025,21:00,LALIGA EA SPORTS,Real Betis,2,CA Osasuna,0,"('Estadio de La Cartuja', 68887)",Sevilla,False,2
+JUE 25.09.2025,19:30,LALIGA EA SPORTS,CA Osasuna,1,Elche CF,1,"('El Sadar', 23576)",Pamplona,True,2
+SAB 20.09.2025,18:30,LALIGA EA SPORTS,Villarreal CF,2,CA Osasuna,1,"('La Cerámica', 23500)",Villarreal,False,3
+DOM 14.09.2025,18:30,LALIGA EA SPORTS,CA Osasuna,2,Rayo Vallecano,0,"('El Sadar', 23576)",Pamplona,True,2
+DOM 31.08.2025,19:30,LALIGA EA SPORTS,RCD Espanyol,1,CA Osasuna,0,"('RCDE Stadium', 40000)",Cornellá de Llobregat,False,1
+DOM 24.08.2025,17:00,LALIGA EA SPORTS,CA Osasuna,1,Valencia CF,0,"('El Sadar', 23576)",Pamplona,True,1
+MAR 19.08.2025,21:00,LALIGA EA SPORTS,Real Madrid,1,CA Osasuna,0,"('Santiago Bernabéu', 83088)",Madrid,False,1
+JUE  29.01.2026,21:00,UEFA Europa League,Estrella roja,1,Celta de Vigo,1,,,False,2
+DOM  25.01.2026,18:30,LALIGA EA SPORTS,Real Sociedad,3,Celta de Vigo,1,"('Estadio de Anoeta', 39313)",San Sebastián,False,4
+JUE  22.01.2026,21:00,UEFA Europa League,Celta de Vigo,2,Losc,1,"('Abanca-Balaídos', 24870)",Vigo,True,3
+DOM  18.01.2026,18:30,LALIGA EA SPORTS,Celta de Vigo,3,Rayo Vallecano,0,"('Abanca-Balaídos', 24870)",Vigo,True,3
+LUN  12.01.2026,21:00,LALIGA EA SPORTS,Sevilla FC,0,Celta de Vigo,1,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,False,1
+SÁB  03.01.2026,14:00,LALIGA EA SPORTS,Celta de Vigo,4,Valencia CF,1,"('Abanca-Balaídos', 24870)",Vigo,True,5
+SÁB  20.12.2025,14:00,LALIGA EA SPORTS,Real Oviedo,0,Celta de Vigo,0,"('Carlos Tartiere', 30500)",Oviedo,False,0
+MIÉ  17.12.2025,19:00,Copa del Rey,Albacete bp,2,Celta de Vigo,2,,,False,4
+DOM  14.12.2025,16:15,LALIGA EA SPORTS,Celta de Vigo,2,Athletic Club,0,"('Abanca-Balaídos', 24870)",Vigo,True,2
+JUE  11.12.2025,21:00,UEFA Europa League,Celta de Vigo,1,Bologna,2,"('Abanca-Balaídos', 24870)",Vigo,True,3
+DOM  07.12.2025,21:00,LALIGA EA SPORTS,Real Madrid,0,Celta de Vigo,2,"('Santiago Bernabéu', 83088)",Madrid,False,2
+JUE  04.12.2025,21:00,Copa del Rey,Sant andreu,1,Celta de Vigo,1,,,False,2
+DOM  30.11.2025,18:30,LALIGA EA SPORTS,Celta de Vigo,0,RCD Espanyol,1,"('Abanca-Balaídos', 24870)",Vigo,True,1
+JUE  27.11.2025,18:45,UEFA Europa League,Ludogorets,3,Celta de Vigo,2,,,False,5
+SÁB  22.11.2025,14:00,LALIGA EA SPORTS,Deportivo Alavés,0,Celta de Vigo,1,"('Mendizorroza', 20320)",Vitoria,False,1
+DOM  09.11.2025,21:00,LALIGA EA SPORTS,Celta de Vigo,2,FC Barcelona,4,"('Abanca-Balaídos', 24870)",Vigo,True,6
+JUE  06.11.2025,18:45,UEFA Europa League,Dinamo zagreb,0,Celta de Vigo,3,,,False,3
+DOM  02.11.2025,14:00,LALIGA EA SPORTS,Levante UD,1,Celta de Vigo,2,"('Ciudad de Valencia', 26354)",Valencia,False,3
+JUE  30.10.2025,19:00,Copa del Rey,Puerto de vega cf,0,Celta de Vigo,2,,,False,2
+DOM  26.10.2025,18:30,LALIGA EA SPORTS,CA Osasuna,2,Celta de Vigo,3,"('El Sadar', 23576)",Pamplona,False,5
+JUE  23.10.2025,21:00,UEFA Europa League,Celta de Vigo,2,Nice,1,"('Abanca-Balaídos', 24870)",Vigo,True,3
+DOM  19.10.2025,16:15,LALIGA EA SPORTS,Celta de Vigo,1,Real Sociedad,1,"('Abanca-Balaídos', 24870)",Vigo,True,2
+DOM  05.10.2025,21:00,LALIGA EA SPORTS,Celta de Vigo,1,Atlético de Madrid,1,"('Abanca-Balaídos', 24870)",Vigo,True,2
+JUE  02.10.2025,21:00,UEFA Europa League,Celta de Vigo,3,Paok,1,"('Abanca-Balaídos', 24870)",Vigo,True,4
+DOM  28.09.2025,16:15,LALIGA EA SPORTS,Elche CF,2,Celta de Vigo,1,"('Martínez Valero', 33732)",Elche,False,3
+JUE  25.09.2025,21:00,UEFA Europa League,Vfb stuttgart,2,Celta de Vigo,1,,,False,3
+DOM  21.09.2025,14:00,LALIGA EA SPORTS,Rayo Vallecano,1,Celta de Vigo,1,"('Estadio de Vallecas', 14708)",Madrid,False,2
+DOM  14.09.2025,14:00,LALIGA EA SPORTS,Celta de Vigo,1,Girona FC,1,"('Abanca-Balaídos', 24870)",Vigo,True,2
+DOM  31.08.2025,17:00,LALIGA EA SPORTS,Celta de Vigo,1,Villarreal CF,1,"('Abanca-Balaídos', 24870)",Vigo,True,2
+MIÉ  27.08.2025,21:00,LALIGA EA SPORTS,Celta de Vigo,1,Real Betis,1,"('Abanca-Balaídos', 24870)",Vigo,True,2
+SÁB  23.08.2025,17:00,LALIGA EA SPORTS,RCD Mallorca,1,Celta de Vigo,1,"('Son Moix', 23142)",Palma de Mallorca,False,2
+DOM  17.08.2025,17:00,LALIGA EA SPORTS,Celta de Vigo,0,Getafe CF,2,"('Abanca-Balaídos', 24870)",Vigo,True,2
+DOM 25.01.2026,21:00,LALIGA EA SPORTS,Deportivo Alavés,2,Real Betis,1,"('Mendizorroza', 20320)",Vitoria,True,3
+DOM 18.01.2026,16:15,LALIGA EA SPORTS,Atlético de Madrid,1,Deportivo Alavés,0,"('Riyadh Air Metropolitano', 70460)",Madrid,False,1
+MIE 14.01.2026,21:00,Copa del Rey,Deportivo Alavés,2,Rayo Vallecano,0,"('Mendizorroza', 20320)",Vitoria,True,2
+SAB 10.01.2026,16:15,LALIGA EA SPORTS,Villarreal CF,3,Deportivo Alavés,1,"('La Cerámica', 23500)",Villarreal,False,4
+DOM 04.01.2026,18:30,LALIGA EA SPORTS,Deportivo Alavés,1,Real Oviedo,1,"('Mendizorroza', 20320)",Vitoria,True,2
+SAB 20.12.2025,18:30,LALIGA EA SPORTS,CA Osasuna,3,Deportivo Alavés,0,"('El Sadar', 23576)",Pamplona,False,3
+MIE 17.12.2025,21:00,Copa del Rey,Deportivo Alavés,1,Sevilla FC,0,"('Mendizorroza', 20320)",Vitoria,True,1
+DOM 14.12.2025,21:00,LALIGA EA SPORTS,Deportivo Alavés,1,Real Madrid,2,"('Mendizorroza', 20320)",Vitoria,True,3
+SAB 06.12.2025,16:15,LALIGA EA SPORTS,Deportivo Alavés,1,Real Sociedad,0,"('Mendizorroza', 20320)",Vitoria,True,1
+MAR 02.12.2025,19:00,Copa del Rey,Club portugalete,0,Deportivo Alavés,3,,,False,3
+SAB 29.11.2025,16:15,LALIGA EA SPORTS,FC Barcelona,3,Deportivo Alavés,1,"('Spotify Camp Nou', 99354)",Barcelona,False,4
+SAB 22.11.2025,14:00,LALIGA EA SPORTS,Deportivo Alavés,0,Celta de Vigo,1,"('Mendizorroza', 20320)",Vitoria,True,1
+SAB 08.11.2025,14:00,LALIGA EA SPORTS,Girona FC,1,Deportivo Alavés,0,"('Municipal de Montilivi', 14624)",Gerona,False,1
+DOM 02.11.2025,16:15,LALIGA EA SPORTS,Deportivo Alavés,2,RCD Espanyol,1,"('Mendizorroza', 20320)",Vitoria,True,3
+JUE 30.10.2025,20:00,Copa del Rey,Cd getxo,0,Deportivo Alavés,7,,,False,7
+DOM 26.10.2025,21:00,LALIGA EA SPORTS,Rayo Vallecano,1,Deportivo Alavés,0,"('Estadio de Vallecas', 14708)",Madrid,False,1
+LUN 20.10.2025,21:00,LALIGA EA SPORTS,Deportivo Alavés,0,Valencia CF,0,"('Mendizorroza', 20320)",Vitoria,True,0
+DOM 05.10.2025,14:00,LALIGA EA SPORTS,Deportivo Alavés,3,Elche CF,1,"('Mendizorroza', 20320)",Vitoria,True,4
+SAB 27.09.2025,18:30,LALIGA EA SPORTS,RCD Mallorca,1,Deportivo Alavés,0,"('Son Moix', 23142)",Palma de Mallorca,False,1
+MIE 24.09.2025,19:00,LALIGA EA SPORTS,Getafe CF,1,Deportivo Alavés,1,"('Coliseum', 16500)",Getafe,False,2
+SAB 20.09.2025,18:30,LALIGA EA SPORTS,Deportivo Alavés,1,Sevilla FC,2,"('Mendizorroza', 20320)",Vitoria,True,3
+SAB 13.09.2025,18:30,LALIGA EA SPORTS,Athletic Club,0,Deportivo Alavés,1,"('San Mamés', 53289)",Bilbao,False,1
+SAB 30.08.2025,17:00,LALIGA EA SPORTS,Deportivo Alavés,1,Atlético de Madrid,1,"('Mendizorroza', 20320)",Vitoria,True,2
+VIE 22.08.2025,21:30,LALIGA EA SPORTS,Real Betis,1,Deportivo Alavés,0,"('Estadio de La Cartuja', 68887)",Sevilla,False,1
+SAB 16.08.2025,21:30,LALIGA EA SPORTS,Deportivo Alavés,2,Levante UD,1,"('Mendizorroza', 20320)",Vitoria,True,3
+VIE 23.01.2026,21:00,LALIGA EA SPORTS,Levante UD,3,Elche CF,2,"('Ciudad de Valencia', 26354)",Valencia,False,5
+LUN 19.01.2026,21:00,LALIGA EA SPORTS,Elche CF,2,Sevilla FC,2,"('Martínez Valero', 33732)",Elche,True,4
+MIE 14.01.2026,21:00,Copa del Rey,Real Betis,2,Elche CF,1,,,False,3
+SAB 10.01.2026,21:00,LALIGA EA SPORTS,Valencia CF,1,Elche CF,1,"('Mestalla', 49430)",Valencia,False,2
+SAB 03.01.2026,18:30,LALIGA EA SPORTS,Elche CF,1,Villarreal CF,3,"('Martínez Valero', 33732)",Elche,True,4
+DOM 21.12.2025,18:30,LALIGA EA SPORTS,Elche CF,4,Rayo Vallecano,0,"('Martínez Valero', 33732)",Elche,True,4
+MAR 16.12.2025,19:00,Copa del Rey,Sd eibar,0,Elche CF,1,,,False,1
+SAB 13.12.2025,16:15,LALIGA EA SPORTS,RCD Mallorca,3,Elche CF,1,"('Son Moix', 23142)",Palma de Mallorca,False,4
+DOM 07.12.2025,14:00,LALIGA EA SPORTS,Elche CF,3,Girona FC,0,"('Martínez Valero', 33732)",Elche,True,3
+MIE 03.12.2025,21:00,Copa del Rey,Cd quintanar del rey,1,Elche CF,2,,,False,3
+VIE 28.11.2025,21:00,LALIGA EA SPORTS,Getafe CF,1,Elche CF,0,"('Coliseum', 16500)",Getafe,False,1
+DOM 23.11.2025,21:00,LALIGA EA SPORTS,Elche CF,2,Real Madrid,2,"('Martínez Valero', 33732)",Elche,True,4
+VIE 07.11.2025,21:00,LALIGA EA SPORTS,Elche CF,1,Real Sociedad,1,"('Martínez Valero', 33732)",Elche,True,2
+DOM 02.11.2025,18:30,LALIGA EA SPORTS,FC Barcelona,3,Elche CF,1,"('Spotify Camp Nou', 99354)",Barcelona,False,4
+MIE 29.10.2025,19:00,Copa del Rey,Ud los garres,0,Elche CF,4,,,False,4
+SAB 25.10.2025,16:15,LALIGA EA SPORTS,RCD Espanyol,1,Elche CF,0,"('RCDE Stadium', 40000)",Cornellá de Llobregat,False,1
+DOM 19.10.2025,14:00,LALIGA EA SPORTS,Elche CF,0,Athletic Club,0,"('Martínez Valero', 33732)",Elche,True,0
+DOM 05.10.2025,14:00,LALIGA EA SPORTS,Deportivo Alavés,3,Elche CF,1,"('Mendizorroza', 20320)",Vitoria,False,4
+DOM 28.09.2025,16:15,LALIGA EA SPORTS,Elche CF,2,Celta de Vigo,1,"('Martínez Valero', 33732)",Elche,True,3
+JUE 25.09.2025,19:30,LALIGA EA SPORTS,CA Osasuna,1,Elche CF,1,"('El Sadar', 23576)",Pamplona,False,2
+DOM 21.09.2025,18:30,LALIGA EA SPORTS,Elche CF,1,Real Oviedo,0,"('Martínez Valero', 33732)",Elche,True,1
+VIE 12.09.2025,21:00,LALIGA EA SPORTS,Sevilla FC,2,Elche CF,2,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,False,4
+VIE 29.08.2025,19:30,LALIGA EA SPORTS,Elche CF,2,Levante UD,0,"('Martínez Valero', 33732)",Elche,True,2
+SAB 23.08.2025,19:30,LALIGA EA SPORTS,Atlético de Madrid,1,Elche CF,1,"('Riyadh Air Metropolitano', 70460)",Madrid,False,2
+LUN 18.08.2025,21:00,LALIGA EA SPORTS,Elche CF,1,Real Betis,1,"('Martínez Valero', 33732)",Elche,True,2
+MIE 28.01.2026,21:00,UEFA Champions League,FC Barcelona,4,Copenhague,1,"('Spotify Camp Nou', 99354)",Barcelona,True,5
+DOM 25.01.2026,16:15,LALIGA EA SPORTS,FC Barcelona,3,Real Oviedo,0,"('Spotify Camp Nou', 99354)",Barcelona,True,3
+MIE 21.01.2026,21:00,UEFA Champions League,Slavia praha,2,FC Barcelona,4,,,False,6
+DOM 18.01.2026,21:00,LALIGA EA SPORTS,Real Sociedad,2,FC Barcelona,1,"('Estadio de Anoeta', 39313)",San Sebastián,False,3
+JUE 15.01.2026,21:15,Copa del Rey,R. racing club,0,FC Barcelona,2,,,False,2
+DOM 11.01.2026,20:00,Supercopa de España,FC Barcelona,3,Real Madrid,2,"('Spotify Camp Nou', 99354)",Barcelona,True,5
+MIE 07.01.2026,20:00,Supercopa de España,FC Barcelona,5,Athletic Club,0,"('Spotify Camp Nou', 99354)",Barcelona,True,5
+SAB 03.01.2026,21:00,LALIGA EA SPORTS,RCD Espanyol,0,FC Barcelona,2,"('RCDE Stadium', 40000)",Cornellá de Llobregat,False,2
+DOM 21.12.2025,16:15,LALIGA EA SPORTS,Villarreal CF,0,FC Barcelona,2,"('La Cerámica', 23500)",Villarreal,False,2
+MAR 16.12.2025,21:30,Copa del Rey,Cd guadalajara,0,FC Barcelona,2,,,False,2
+SAB 13.12.2025,18:30,LALIGA EA SPORTS,FC Barcelona,2,CA Osasuna,0,"('Spotify Camp Nou', 99354)",Barcelona,True,2
+MAR 09.12.2025,21:00,UEFA Champions League,FC Barcelona,2,Eintracht,1,"('Spotify Camp Nou', 99354)",Barcelona,True,3
+SAB 06.12.2025,18:30,LALIGA EA SPORTS,Real Betis,3,FC Barcelona,5,"('Estadio de La Cartuja', 68887)",Sevilla,False,8
+MAR 02.12.2025,21:00,LALIGA EA SPORTS,FC Barcelona,3,Atlético de Madrid,1,"('Spotify Camp Nou', 99354)",Barcelona,True,4
+SAB 29.11.2025,16:15,LALIGA EA SPORTS,FC Barcelona,3,Deportivo Alavés,1,"('Spotify Camp Nou', 99354)",Barcelona,True,4
+MAR 25.11.2025,21:00,UEFA Champions League,Chelsea,3,FC Barcelona,0,,,False,3
+SAB 22.11.2025,16:15,LALIGA EA SPORTS,FC Barcelona,4,Athletic Club,0,"('Spotify Camp Nou', 99354)",Barcelona,True,4
+DOM 09.11.2025,21:00,LALIGA EA SPORTS,Celta de Vigo,2,FC Barcelona,4,"('Abanca-Balaídos', 24870)",Vigo,False,6
+MIE 05.11.2025,21:00,UEFA Champions League,Club brujas,3,FC Barcelona,3,,,False,6
+DOM 02.11.2025,18:30,LALIGA EA SPORTS,FC Barcelona,3,Elche CF,1,"('Spotify Camp Nou', 99354)",Barcelona,True,4
+DOM 26.10.2025,16:15,LALIGA EA SPORTS,Real Madrid,2,FC Barcelona,1,"('Santiago Bernabéu', 83088)",Madrid,False,3
+MAR 21.10.2025,18:45,UEFA Champions League,FC Barcelona,6,Olympiacos,1,"('Spotify Camp Nou', 99354)",Barcelona,True,7
+SAB 18.10.2025,16:15,LALIGA EA SPORTS,FC Barcelona,2,Girona FC,1,"('Spotify Camp Nou', 99354)",Barcelona,True,3
+DOM 05.10.2025,16:15,LALIGA EA SPORTS,Sevilla FC,4,FC Barcelona,1,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,False,5
+MIE 01.10.2025,21:00,UEFA Champions League,FC Barcelona,1,Psg,2,"('Spotify Camp Nou', 99354)",Barcelona,True,3
+DOM 28.09.2025,18:30,LALIGA EA SPORTS,FC Barcelona,2,Real Sociedad,1,"('Spotify Camp Nou', 99354)",Barcelona,True,3
+JUE 25.09.2025,21:30,LALIGA EA SPORTS,Real Oviedo,1,FC Barcelona,3,"('Carlos Tartiere', 30500)",Oviedo,False,4
+DOM 21.09.2025,21:00,LALIGA EA SPORTS,FC Barcelona,3,Getafe CF,0,"('Spotify Camp Nou', 99354)",Barcelona,True,3
+JUE 18.09.2025,21:00,UEFA Champions League,Newcastle,1,FC Barcelona,2,,,False,3
+DOM 14.09.2025,21:00,LALIGA EA SPORTS,FC Barcelona,6,Valencia CF,0,"('Spotify Camp Nou', 99354)",Barcelona,True,6
+DOM 31.08.2025,21:30,LALIGA EA SPORTS,Rayo Vallecano,1,FC Barcelona,1,"('Estadio de Vallecas', 14708)",Madrid,False,2
+SAB 23.08.2025,21:30,LALIGA EA SPORTS,Levante UD,2,FC Barcelona,3,"('Ciudad de Valencia', 26354)",Valencia,False,5
+SAB 16.08.2025,19:30,LALIGA EA SPORTS,RCD Mallorca,0,FC Barcelona,3,"('Son Moix', 23142)",Palma de Mallorca,False,3
+LUN  26.01.2026,21:00,LALIGA EA SPORTS,Girona FC,1,Getafe CF,1,"('Municipal de Montilivi', 14624)",Gerona,False,2
+DOM  18.01.2026,14:00,LALIGA EA SPORTS,Getafe CF,0,Valencia CF,1,"('Coliseum', 16500)",Getafe,True,1
+VIE  09.01.2026,21:00,LALIGA EA SPORTS,Getafe CF,1,Real Sociedad,2,"('Coliseum', 16500)",Getafe,True,3
+VIE  02.01.2026,21:00,LALIGA EA SPORTS,Rayo Vallecano,1,Getafe CF,1,"('Estadio de Vallecas', 14708)",Madrid,False,2
+DOM  21.12.2025,21:00,LALIGA EA SPORTS,Real Betis,4,Getafe CF,0,"('Estadio de La Cartuja', 68887)",Sevilla,False,4
+JUE  18.12.2025,19:00,Copa del Rey,Burgos cf,3,Getafe CF,1,,,False,4
+SÁB  13.12.2025,21:00,LALIGA EA SPORTS,Getafe CF,0,RCD Espanyol,1,"('Coliseum', 16500)",Getafe,True,1
+SÁB  06.12.2025,14:00,LALIGA EA SPORTS,Villarreal CF,2,Getafe CF,0,"('La Cerámica', 23500)",Villarreal,False,2
+MAR  02.12.2025,21:00,Copa del Rey,Cda navalcarnero,2,Getafe CF,3,,,False,5
+VIE  28.11.2025,21:00,LALIGA EA SPORTS,Getafe CF,1,Elche CF,0,"('Coliseum', 16500)",Getafe,True,1
+DOM  23.11.2025,18:30,LALIGA EA SPORTS,Getafe CF,0,Atlético de Madrid,1,"('Coliseum', 16500)",Getafe,True,1
+DOM  09.11.2025,18:30,LALIGA EA SPORTS,RCD Mallorca,1,Getafe CF,0,"('Son Moix', 23142)",Palma de Mallorca,False,1
+VIE  31.10.2025,21:00,LALIGA EA SPORTS,Getafe CF,2,Girona FC,1,"('Coliseum', 16500)",Getafe,True,3
+MAR  28.10.2025,20:00,Copa del Rey,Int. valdemoro,0,Getafe CF,11,,,False,11
+SÁB  25.10.2025,18:30,LALIGA EA SPORTS,Athletic Club,0,Getafe CF,1,"('San Mamés', 53289)",Bilbao,False,1
+DOM  19.10.2025,21:00,LALIGA EA SPORTS,Getafe CF,0,Real Madrid,1,"('Coliseum', 16500)",Getafe,True,1
+VIE  03.10.2025,21:00,LALIGA EA SPORTS,CA Osasuna,2,Getafe CF,1,"('El Sadar', 23576)",Pamplona,False,3
+SÁB  27.09.2025,14:00,LALIGA EA SPORTS,Getafe CF,1,Levante UD,1,"('Coliseum', 16500)",Getafe,True,2
+MIÉ  24.09.2025,19:00,LALIGA EA SPORTS,Getafe CF,1,Deportivo Alavés,1,"('Coliseum', 16500)",Getafe,True,2
+DOM  21.09.2025,21:00,LALIGA EA SPORTS,FC Barcelona,3,Getafe CF,0,"('Spotify Camp Nou', 99354)",Barcelona,False,3
+SÁB  13.09.2025,14:00,LALIGA EA SPORTS,Getafe CF,2,Real Oviedo,0,"('Coliseum', 16500)",Getafe,True,2
+VIE  29.08.2025,21:30,LALIGA EA SPORTS,Valencia CF,3,Getafe CF,0,"('Mestalla', 49430)",Valencia,False,3
+LUN  25.08.2025,21:30,LALIGA EA SPORTS,Sevilla FC,1,Getafe CF,2,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,False,3
+DOM  17.08.2025,17:00,LALIGA EA SPORTS,Celta de Vigo,0,Getafe CF,2,"('Abanca-Balaídos', 24870)",Vigo,False,2
+LUN  26.01.2026,21:00,LALIGA EA SPORTS,Girona FC,1,Getafe CF,1,"('Municipal de Montilivi', 14624)",Gerona,True,2
+VIE  16.01.2026,21:00,LALIGA EA SPORTS,RCD Espanyol,0,Girona FC,2,"('RCDE Stadium', 40000)",Cornellá de Llobregat,False,2
+SÁB  10.01.2026,18:30,LALIGA EA SPORTS,Girona FC,1,CA Osasuna,0,"('Municipal de Montilivi', 14624)",Gerona,True,1
+DOM  04.01.2026,18:30,LALIGA EA SPORTS,RCD Mallorca,1,Girona FC,2,"('Son Moix', 23142)",Palma de Mallorca,False,3
+DOM  21.12.2025,14:00,LALIGA EA SPORTS,Girona FC,0,Atlético de Madrid,3,"('Municipal de Montilivi', 14624)",Gerona,True,3
+VIE  12.12.2025,21:00,LALIGA EA SPORTS,Real Sociedad,1,Girona FC,2,"('Estadio de Anoeta', 39313)",San Sebastián,False,3
+DOM  07.12.2025,14:00,LALIGA EA SPORTS,Elche CF,3,Girona FC,0,"('Martínez Valero', 33732)",Elche,False,3
+MIÉ  03.12.2025,21:00,Copa del Rey,Ourense cf,2,Girona FC,1,,,False,3
+DOM  30.11.2025,21:00,LALIGA EA SPORTS,Girona FC,1,Real Madrid,1,"('Municipal de Montilivi', 14624)",Gerona,True,2
+DOM  23.11.2025,16:15,LALIGA EA SPORTS,Real Betis,1,Girona FC,1,"('Estadio de La Cartuja', 68887)",Sevilla,False,2
+SÁB  08.11.2025,14:00,LALIGA EA SPORTS,Girona FC,1,Deportivo Alavés,0,"('Municipal de Montilivi', 14624)",Gerona,True,1
+VIE  31.10.2025,21:00,LALIGA EA SPORTS,Getafe CF,2,Girona FC,1,"('Coliseum', 16500)",Getafe,False,3
+MAR  28.10.2025,19:00,Copa del Rey,Constancia,2,Girona FC,3,,,False,5
+SÁB  25.10.2025,14:00,LALIGA EA SPORTS,Girona FC,3,Real Oviedo,3,"('Municipal de Montilivi', 14624)",Gerona,True,6
+SÁB  18.10.2025,16:15,LALIGA EA SPORTS,FC Barcelona,2,Girona FC,1,"('Spotify Camp Nou', 99354)",Barcelona,False,3
+SÁB  04.10.2025,16:15,LALIGA EA SPORTS,Girona FC,2,Valencia CF,1,"('Municipal de Montilivi', 14624)",Gerona,True,3
+VIE  26.09.2025,21:00,LALIGA EA SPORTS,Girona FC,0,RCD Espanyol,0,"('Municipal de Montilivi', 14624)",Gerona,True,0
+MAR  23.09.2025,19:00,LALIGA EA SPORTS,Athletic Club,1,Girona FC,1,"('San Mamés', 53289)",Bilbao,False,2
+SÁB  20.09.2025,14:00,LALIGA EA SPORTS,Girona FC,0,Levante UD,4,"('Municipal de Montilivi', 14624)",Gerona,True,4
+DOM  14.09.2025,14:00,LALIGA EA SPORTS,Celta de Vigo,1,Girona FC,1,"('Abanca-Balaídos', 24870)",Vigo,False,2
+SÁB  30.08.2025,19:30,LALIGA EA SPORTS,Girona FC,0,Sevilla FC,2,"('Municipal de Montilivi', 14624)",Gerona,True,2
+DOM  24.08.2025,19:30,LALIGA EA SPORTS,Villarreal CF,5,Girona FC,0,"('La Cerámica', 23500)",Villarreal,False,5
+VIE  15.08.2025,19:00,LALIGA EA SPORTS,Girona FC,1,Rayo Vallecano,3,"('Municipal de Montilivi', 14624)",Gerona,True,4
+VIE  23.01.2026,21:00,LALIGA EA SPORTS,Levante UD,3,Elche CF,2,"('Ciudad de Valencia', 26354)",Valencia,True,5
+SÁB  17.01.2026,14:00,LALIGA EA SPORTS,Real Madrid,2,Levante UD,0,"('Santiago Bernabéu', 83088)",Madrid,False,2
+DOM  11.01.2026,16:15,LALIGA EA SPORTS,Levante UD,1,RCD Espanyol,1,"('Ciudad de Valencia', 26354)",Valencia,True,2
+DOM  04.01.2026,14:00,LALIGA EA SPORTS,Sevilla FC,0,Levante UD,3,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,False,3
+SÁB  20.12.2025,16:15,LALIGA EA SPORTS,Levante UD,1,Real Sociedad,1,"('Ciudad de Valencia', 26354)",Valencia,True,2
+MIÉ  17.12.2025,18:00,Copa del Rey,Cultural y deportiva leonesa,1,Levante UD,0,,,False,1
+LUN  08.12.2025,21:00,LALIGA EA SPORTS,CA Osasuna,2,Levante UD,0,"('El Sadar', 23576)",Pamplona,False,2
+MIÉ  03.12.2025,21:00,Copa del Rey,Cieza,0,Levante UD,1,,,False,1
+SÁB  29.11.2025,18:30,LALIGA EA SPORTS,Levante UD,0,Athletic Club,2,"('Ciudad de Valencia', 26354)",Valencia,True,2
+VIE  21.11.2025,21:00,LALIGA EA SPORTS,Valencia CF,1,Levante UD,0,"('Mestalla', 49430)",Valencia,False,1
+SÁB  08.11.2025,18:30,LALIGA EA SPORTS,Atlético de Madrid,3,Levante UD,1,"('Riyadh Air Metropolitano', 70460)",Madrid,False,4
+DOM  02.11.2025,14:00,LALIGA EA SPORTS,Levante UD,1,Celta de Vigo,2,"('Ciudad de Valencia', 26354)",Valencia,True,3
+JUE  30.10.2025,19:00,Copa del Rey,Orihuela cf,3,Levante UD,4,,,False,7
+DOM  26.10.2025,14:00,LALIGA EA SPORTS,RCD Mallorca,1,Levante UD,1,"('Son Moix', 23142)",Palma de Mallorca,False,2
+DOM  19.10.2025,18:30,LALIGA EA SPORTS,Levante UD,0,Rayo Vallecano,3,"('Ciudad de Valencia', 26354)",Valencia,True,3
+SÁB  04.10.2025,14:00,LALIGA EA SPORTS,Real Oviedo,0,Levante UD,2,"('Carlos Tartiere', 30500)",Oviedo,False,2
+SÁB  27.09.2025,14:00,LALIGA EA SPORTS,Getafe CF,1,Levante UD,1,"('Coliseum', 16500)",Getafe,False,2
+MAR  23.09.2025,21:30,LALIGA EA SPORTS,Levante UD,1,Real Madrid,4,"('Ciudad de Valencia', 26354)",Valencia,True,5
+SÁB  20.09.2025,14:00,LALIGA EA SPORTS,Girona FC,0,Levante UD,4,"('Municipal de Montilivi', 14624)",Gerona,False,4
+DOM  14.09.2025,16:15,LALIGA EA SPORTS,Levante UD,2,Real Betis,2,"('Ciudad de Valencia', 26354)",Valencia,True,4
+VIE  29.08.2025,19:30,LALIGA EA SPORTS,Elche CF,2,Levante UD,0,"('Martínez Valero', 33732)",Elche,False,2
+SÁB  23.08.2025,21:30,LALIGA EA SPORTS,Levante UD,2,FC Barcelona,3,"('Ciudad de Valencia', 26354)",Valencia,True,5
+SÁB  16.08.2025,21:30,LALIGA EA SPORTS,Deportivo Alavés,2,Levante UD,1,"('Mendizorroza', 20320)",Vitoria,False,3
+SÁB  24.01.2026,14:00,LALIGA EA SPORTS,Rayo Vallecano,1,CA Osasuna,3,"('Estadio de Vallecas', 14708)",Madrid,True,4
+DOM  18.01.2026,18:30,LALIGA EA SPORTS,Celta de Vigo,3,Rayo Vallecano,0,"('Abanca-Balaídos', 24870)",Vigo,False,3
+MIÉ  14.01.2026,21:00,Copa del Rey,Deportivo Alavés,2,Rayo Vallecano,0,,,False,2
+DOM  11.01.2026,14:00,LALIGA EA SPORTS,Rayo Vallecano,2,RCD Mallorca,1,"('Estadio de Vallecas', 14708)",Madrid,True,3
+MAR  06.01.2026,19:00,Copa del Rey,Granada cf,1,Rayo Vallecano,3,,,False,4
+VIE  02.01.2026,21:00,LALIGA EA SPORTS,Rayo Vallecano,1,Getafe CF,1,"('Estadio de Vallecas', 14708)",Madrid,True,2
+DOM  21.12.2025,18:30,LALIGA EA SPORTS,Elche CF,4,Rayo Vallecano,0,"('Martínez Valero', 33732)",Elche,False,4
+JUE  18.12.2025,21:00,UEFA Europa Conference League,Rayo Vallecano,3,Drita gjilan,0,"('Estadio de Vallecas', 14708)",Madrid,True,3
+LUN  15.12.2025,21:00,LALIGA EA SPORTS,Rayo Vallecano,0,Real Betis,0,"('Estadio de Vallecas', 14708)",Madrid,True,0
+JUE  11.12.2025,18:45,UEFA Europa Conference League,Jagiellonia bialystok,1,Rayo Vallecano,2,,,False,3
+DOM  07.12.2025,18:30,LALIGA EA SPORTS,RCD Espanyol,1,Rayo Vallecano,0,"('RCDE Stadium', 40000)",Cornellá de Llobregat,False,1
+JUE  04.12.2025,19:00,Copa del Rey,Real avila,1,Rayo Vallecano,2,,,False,3
+LUN  01.12.2025,21:00,LALIGA EA SPORTS,Rayo Vallecano,1,Valencia CF,1,"('Estadio de Vallecas', 14708)",Madrid,True,2
+JUE  27.11.2025,18:45,UEFA Europa Conference League,S. bratislava,2,Rayo Vallecano,1,,,False,3
+DOM  23.11.2025,14:00,LALIGA EA SPORTS,Real Oviedo,0,Rayo Vallecano,0,"('Carlos Tartiere', 30500)",Oviedo,False,0
+DOM  09.11.2025,16:15,LALIGA EA SPORTS,Rayo Vallecano,0,Real Madrid,0,"('Estadio de Vallecas', 14708)",Madrid,True,0
+JUE  06.11.2025,21:00,UEFA Europa Conference League,Rayo Vallecano,3,Lech poznań,2,"('Estadio de Vallecas', 14708)",Madrid,True,5
+SÁB  01.11.2025,14:00,LALIGA EA SPORTS,Villarreal CF,4,Rayo Vallecano,0,"('La Cerámica', 23500)",Villarreal,False,4
+MIÉ  29.10.2025,21:00,Copa del Rey,Cd yuncos,1,Rayo Vallecano,6,,,False,7
+DOM  26.10.2025,21:00,LALIGA EA SPORTS,Rayo Vallecano,1,Deportivo Alavés,0,"('Estadio de Vallecas', 14708)",Madrid,True,1
+JUE  23.10.2025,18:45,UEFA Europa Conference League,Bk häcken,2,Rayo Vallecano,2,,,False,4
+DOM  19.10.2025,18:30,LALIGA EA SPORTS,Levante UD,0,Rayo Vallecano,3,"('Ciudad de Valencia', 26354)",Valencia,False,3
+DOM  05.10.2025,18:30,LALIGA EA SPORTS,Real Sociedad,0,Rayo Vallecano,1,"('Estadio de Anoeta', 39313)",San Sebastián,False,1
+JUE  02.10.2025,18:45,UEFA Europa Conference League,Rayo Vallecano,2,Shkendija,0,"('Estadio de Vallecas', 14708)",Madrid,True,2
+DOM  28.09.2025,14:00,LALIGA EA SPORTS,Rayo Vallecano,0,Sevilla FC,1,"('Estadio de Vallecas', 14708)",Madrid,True,1
+MIÉ  24.09.2025,21:30,LALIGA EA SPORTS,Atlético de Madrid,3,Rayo Vallecano,2,"('Riyadh Air Metropolitano', 70460)",Madrid,False,5
+DOM  21.09.2025,14:00,LALIGA EA SPORTS,Rayo Vallecano,1,Celta de Vigo,1,"('Estadio de Vallecas', 14708)",Madrid,True,2
+DOM  14.09.2025,18:30,LALIGA EA SPORTS,CA Osasuna,2,Rayo Vallecano,0,"('El Sadar', 23576)",Pamplona,False,2
+DOM  31.08.2025,21:30,LALIGA EA SPORTS,Rayo Vallecano,1,FC Barcelona,1,"('Estadio de Vallecas', 14708)",Madrid,True,2
+JUE  28.08.2025,20:00,UEFA Europa Conference League,Rayo Vallecano,4,Neman grodno,0,"('Estadio de Vallecas', 14708)",Madrid,True,4
+LUN  25.08.2025,19:30,LALIGA EA SPORTS,Athletic Club,1,Rayo Vallecano,0,"('San Mamés', 53289)",Bilbao,False,1
+JUE  21.08.2025,20:00,UEFA Europa Conference League,Neman grodno,0,Rayo Vallecano,1,,,False,1
+VIE  15.08.2025,19:00,LALIGA EA SPORTS,Girona FC,1,Rayo Vallecano,3,"('Municipal de Montilivi', 14624)",Gerona,False,4
+SAB 24.01.2026,16:15,LALIGA EA SPORTS,Valencia CF,3,RCD Espanyol,2,"('Mestalla', 49430)",Valencia,False,5
+VIE 16.01.2026,21:00,LALIGA EA SPORTS,RCD Espanyol,0,Girona FC,2,"('RCDE Stadium', 40000)",Cornellá de Llobregat,True,2
+DOM 11.01.2026,16:15,LALIGA EA SPORTS,Levante UD,1,RCD Espanyol,1,"('Ciudad de Valencia', 26354)",Valencia,False,2
+SAB 03.01.2026,21:00,LALIGA EA SPORTS,RCD Espanyol,0,FC Barcelona,2,"('RCDE Stadium', 40000)",Cornellá de Llobregat,True,2
+LUN 22.12.2025,21:00,LALIGA EA SPORTS,Athletic Club,1,RCD Espanyol,2,"('San Mamés', 53289)",Bilbao,False,3
+SAB 13.12.2025,21:00,LALIGA EA SPORTS,Getafe CF,0,RCD Espanyol,1,"('Coliseum', 16500)",Getafe,False,1
+DOM 07.12.2025,18:30,LALIGA EA SPORTS,RCD Espanyol,1,Rayo Vallecano,0,"('RCDE Stadium', 40000)",Cornellá de Llobregat,True,1
+JUE 04.12.2025,19:00,Copa del Rey,Cd atletico baleares,1,RCD Espanyol,0,,,False,1
+DOM 30.11.2025,18:30,LALIGA EA SPORTS,Celta de Vigo,0,RCD Espanyol,1,"('Abanca-Balaídos', 24870)",Vigo,False,1
+LUN 24.11.2025,21:00,LALIGA EA SPORTS,RCD Espanyol,2,Sevilla FC,1,"('RCDE Stadium', 40000)",Cornellá de Llobregat,True,3
+SAB 08.11.2025,21:00,LALIGA EA SPORTS,RCD Espanyol,0,Villarreal CF,2,"('RCDE Stadium', 40000)",Cornellá de Llobregat,True,2
+DOM 02.11.2025,16:15,LALIGA EA SPORTS,Deportivo Alavés,2,RCD Espanyol,1,"('Mendizorroza', 20320)",Vitoria,False,3
+JUE 30.10.2025,21:00,Copa del Rey,Atlètic lleida,1,RCD Espanyol,2,,,False,3
+SAB 25.10.2025,16:15,LALIGA EA SPORTS,RCD Espanyol,1,Elche CF,0,"('RCDE Stadium', 40000)",Cornellá de Llobregat,True,1
+VIE 17.10.2025,21:00,LALIGA EA SPORTS,Real Oviedo,0,RCD Espanyol,2,"('Carlos Tartiere', 30500)",Oviedo,False,2
+DOM 05.10.2025,18:30,LALIGA EA SPORTS,RCD Espanyol,1,Real Betis,2,"('RCDE Stadium', 40000)",Cornellá de Llobregat,True,3
+VIE 26.09.2025,21:00,LALIGA EA SPORTS,Girona FC,0,RCD Espanyol,0,"('Municipal de Montilivi', 14624)",Gerona,False,0
+MAR 23.09.2025,19:00,LALIGA EA SPORTS,RCD Espanyol,2,Valencia CF,2,"('RCDE Stadium', 40000)",Cornellá de Llobregat,True,4
+SAB 20.09.2025,16:15,LALIGA EA SPORTS,Real Madrid,2,RCD Espanyol,0,"('Santiago Bernabéu', 83088)",Madrid,False,2
+LUN 15.09.2025,21:00,LALIGA EA SPORTS,RCD Espanyol,3,RCD Mallorca,2,"('RCDE Stadium', 40000)",Cornellá de Llobregat,True,5
+DOM 31.08.2025,19:30,LALIGA EA SPORTS,RCD Espanyol,1,CA Osasuna,0,"('RCDE Stadium', 40000)",Cornellá de Llobregat,True,1
+DOM 24.08.2025,19:30,LALIGA EA SPORTS,Real Sociedad,2,RCD Espanyol,2,"('Estadio de Anoeta', 39313)",San Sebastián,False,4
+DOM 17.08.2025,21:30,LALIGA EA SPORTS,RCD Espanyol,2,Atlético de Madrid,1,"('RCDE Stadium', 40000)",Cornellá de Llobregat,True,3
+DOM  25.01.2026,14:00,LALIGA EA SPORTS,Atlético de Madrid,3,RCD Mallorca,0,"('Riyadh Air Metropolitano', 70460)",Madrid,False,3
+SÁB  17.01.2026,16:15,LALIGA EA SPORTS,RCD Mallorca,3,Athletic Club,2,"('Son Moix', 23142)",Palma de Mallorca,True,5
+DOM  11.01.2026,14:00,LALIGA EA SPORTS,Rayo Vallecano,2,RCD Mallorca,1,"('Estadio de Vallecas', 14708)",Madrid,False,3
+DOM  04.01.2026,18:30,LALIGA EA SPORTS,RCD Mallorca,1,Girona FC,2,"('Son Moix', 23142)",Palma de Mallorca,True,3
+VIE  19.12.2025,21:00,LALIGA EA SPORTS,Valencia CF,1,RCD Mallorca,1,"('Mestalla', 49430)",Valencia,False,2
+MAR  16.12.2025,19:00,Copa del Rey,Rc deportivo,1,RCD Mallorca,0,,,False,1
+SÁB  13.12.2025,16:15,LALIGA EA SPORTS,RCD Mallorca,3,Elche CF,1,"('Son Moix', 23142)",Palma de Mallorca,True,4
+VIE  05.12.2025,21:00,LALIGA EA SPORTS,Real Oviedo,0,RCD Mallorca,0,"('Carlos Tartiere', 30500)",Oviedo,False,0
+MAR  02.12.2025,19:00,Copa del Rey,Cd numancia,2,RCD Mallorca,3,,,False,5
+SÁB  29.11.2025,14:00,LALIGA EA SPORTS,RCD Mallorca,2,CA Osasuna,2,"('Son Moix', 23142)",Palma de Mallorca,True,4
+SÁB  22.11.2025,21:00,LALIGA EA SPORTS,Villarreal CF,2,RCD Mallorca,1,"('La Cerámica', 23500)",Villarreal,False,3
+DOM  09.11.2025,18:30,LALIGA EA SPORTS,RCD Mallorca,1,Getafe CF,0,"('Son Moix', 23142)",Palma de Mallorca,True,1
+DOM  02.11.2025,21:00,LALIGA EA SPORTS,Real Betis,3,RCD Mallorca,0,"('Estadio de La Cartuja', 68887)",Sevilla,False,3
+MIÉ  29.10.2025,20:00,Copa del Rey,Sant just,0,RCD Mallorca,2,,,False,2
+DOM  26.10.2025,14:00,LALIGA EA SPORTS,RCD Mallorca,1,Levante UD,1,"('Son Moix', 23142)",Palma de Mallorca,True,2
+SÁB  18.10.2025,14:00,LALIGA EA SPORTS,Sevilla FC,1,RCD Mallorca,3,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,False,4
+SÁB  04.10.2025,18:30,LALIGA EA SPORTS,Athletic Club,2,RCD Mallorca,1,"('San Mamés', 53289)",Bilbao,False,3
+SÁB  27.09.2025,18:30,LALIGA EA SPORTS,RCD Mallorca,1,Deportivo Alavés,0,"('Son Moix', 23142)",Palma de Mallorca,True,1
+MIÉ  24.09.2025,21:30,LALIGA EA SPORTS,Real Sociedad,1,RCD Mallorca,0,"('Estadio de Anoeta', 39313)",San Sebastián,False,1
+DOM  21.09.2025,16:15,LALIGA EA SPORTS,RCD Mallorca,1,Atlético de Madrid,1,"('Son Moix', 23142)",Palma de Mallorca,True,2
+LUN  15.09.2025,21:00,LALIGA EA SPORTS,RCD Espanyol,3,RCD Mallorca,2,"('RCDE Stadium', 40000)",Cornellá de Llobregat,False,5
+SÁB  30.08.2025,21:30,LALIGA EA SPORTS,Real Madrid,2,RCD Mallorca,1,"('Santiago Bernabéu', 83088)",Madrid,False,3
+SÁB  23.08.2025,17:00,LALIGA EA SPORTS,RCD Mallorca,1,Celta de Vigo,1,"('Son Moix', 23142)",Palma de Mallorca,True,2
+SÁB  16.08.2025,19:30,LALIGA EA SPORTS,RCD Mallorca,0,FC Barcelona,3,"('Son Moix', 23142)",Palma de Mallorca,True,3
+JUE 29.01.2026,21:00,UEFA Europa League,Real Betis,2,Feyenoord,1,"('Estadio de La Cartuja', 68887)",Sevilla,True,3
+DOM 25.01.2026,21:00,LALIGA EA SPORTS,Deportivo Alavés,2,Real Betis,1,"('Mendizorroza', 20320)",Vitoria,False,3
+JUE 22.01.2026,18:45,UEFA Europa League,Paok,2,Real Betis,0,,,False,2
+SAB 17.01.2026,21:00,LALIGA EA SPORTS,Real Betis,2,Villarreal CF,0,"('Estadio de La Cartuja', 68887)",Sevilla,True,2
+MIE 14.01.2026,21:00,Copa del Rey,Real Betis,2,Elche CF,1,"('Estadio de La Cartuja', 68887)",Sevilla,True,3
+SAB 10.01.2026,14:00,LALIGA EA SPORTS,Real Oviedo,1,Real Betis,1,"('Carlos Tartiere', 30500)",Oviedo,False,2
+DOM 04.01.2026,16:15,LALIGA EA SPORTS,Real Madrid,5,Real Betis,1,"('Santiago Bernabéu', 83088)",Madrid,False,6
+DOM 21.12.2025,21:00,LALIGA EA SPORTS,Real Betis,4,Getafe CF,0,"('Estadio de La Cartuja', 68887)",Sevilla,True,4
+JUE 18.12.2025,21:00,Copa del Rey,Real murcia cf,0,Real Betis,2,,,False,2
+LUN 15.12.2025,21:00,LALIGA EA SPORTS,Rayo Vallecano,0,Real Betis,0,"('Estadio de Vallecas', 14708)",Madrid,False,0
+JUE 11.12.2025,18:45,UEFA Europa League,Dinamo zagreb,1,Real Betis,3,,,False,4
+SAB 06.12.2025,18:30,LALIGA EA SPORTS,Real Betis,3,FC Barcelona,5,"('Estadio de La Cartuja', 68887)",Sevilla,True,8
+MIE 03.12.2025,21:00,Copa del Rey,Torrent,1,Real Betis,4,,,False,5
+DOM 30.11.2025,16:15,LALIGA EA SPORTS,Sevilla FC,0,Real Betis,2,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,False,2
+JUE 27.11.2025,21:00,UEFA Europa League,Real Betis,2,Utrecht,1,"('Estadio de La Cartuja', 68887)",Sevilla,True,3
+DOM 23.11.2025,16:15,LALIGA EA SPORTS,Real Betis,1,Girona FC,1,"('Estadio de La Cartuja', 68887)",Sevilla,True,2
+DOM 09.11.2025,18:30,LALIGA EA SPORTS,Valencia CF,1,Real Betis,1,"('Mestalla', 49430)",Valencia,False,2
+JUE 06.11.2025,21:00,UEFA Europa League,Real Betis,2,Lyon,0,"('Estadio de La Cartuja', 68887)",Sevilla,True,2
+DOM 02.11.2025,21:00,LALIGA EA SPORTS,Real Betis,3,RCD Mallorca,0,"('Estadio de La Cartuja', 68887)",Sevilla,True,3
+JUE 30.10.2025,21:00,Copa del Rey,Palma del rio,1,Real Betis,7,,,False,8
+LUN 27.10.2025,21:00,LALIGA EA SPORTS,Real Betis,0,Atlético de Madrid,2,"('Estadio de La Cartuja', 68887)",Sevilla,True,2
+JUE 23.10.2025,18:45,UEFA Europa League,Genk,0,Real Betis,0,,,False,0
+SAB 18.10.2025,18:30,LALIGA EA SPORTS,Villarreal CF,2,Real Betis,2,"('La Cerámica', 23500)",Villarreal,False,4
+DOM 05.10.2025,18:30,LALIGA EA SPORTS,RCD Espanyol,1,Real Betis,2,"('RCDE Stadium', 40000)",Cornellá de Llobregat,False,3
+JUE 02.10.2025,18:45,UEFA Europa League,Ludogorets,0,Real Betis,2,,,False,2
+DOM 28.09.2025,21:00,LALIGA EA SPORTS,Real Betis,2,CA Osasuna,0,"('Estadio de La Cartuja', 68887)",Sevilla,True,2
+MIE 24.09.2025,21:00,UEFA Europa League,Real Betis,2,Nottingham forest,2,"('Estadio de La Cartuja', 68887)",Sevilla,True,4
+VIE 19.09.2025,21:00,LALIGA EA SPORTS,Real Betis,3,Real Sociedad,1,"('Estadio de La Cartuja', 68887)",Sevilla,True,4
+DOM 14.09.2025,16:15,LALIGA EA SPORTS,Levante UD,2,Real Betis,2,"('Ciudad de Valencia', 26354)",Valencia,False,4
+DOM 31.08.2025,19:00,LALIGA EA SPORTS,Real Betis,1,Athletic Club,2,"('Estadio de La Cartuja', 68887)",Sevilla,True,3
+MIE 27.08.2025,21:00,LALIGA EA SPORTS,Celta de Vigo,1,Real Betis,1,"('Abanca-Balaídos', 24870)",Vigo,False,2
+VIE 22.08.2025,21:30,LALIGA EA SPORTS,Real Betis,1,Deportivo Alavés,0,"('Estadio de La Cartuja', 68887)",Sevilla,True,1
+LUN 18.08.2025,21:00,LALIGA EA SPORTS,Elche CF,1,Real Betis,1,"('Martínez Valero', 33732)",Elche,False,2
+MIE 28.01.2026,21:00,UEFA Champions League,Benfica,4,Real Madrid,2,,,False,6
+SAB 24.01.2026,21:00,LALIGA EA SPORTS,Villarreal CF,0,Real Madrid,2,"('La Cerámica', 23500)",Villarreal,False,2
+MAR 20.01.2026,21:00,UEFA Champions League,Real Madrid,6,Monaco,1,"('Santiago Bernabéu', 83088)",Madrid,True,7
+SAB 17.01.2026,14:00,LALIGA EA SPORTS,Real Madrid,2,Levante UD,0,"('Santiago Bernabéu', 83088)",Madrid,True,2
+MIE 14.01.2026,21:00,Copa del Rey,Albacete bp,3,Real Madrid,2,,,False,5
+DOM 11.01.2026,20:00,Supercopa de España,FC Barcelona,3,Real Madrid,2,,,False,5
+JUE 08.01.2026,20:00,Supercopa de España,Atlético de Madrid,1,Real Madrid,2,,,False,3
+DOM 04.01.2026,16:15,LALIGA EA SPORTS,Real Madrid,5,Real Betis,1,"('Santiago Bernabéu', 83088)",Madrid,True,6
+SAB 20.12.2025,21:00,LALIGA EA SPORTS,Real Madrid,2,Sevilla FC,0,"('Santiago Bernabéu', 83088)",Madrid,True,2
+MIE 17.12.2025,21:00,Copa del Rey,Cf talavera de la reina,2,Real Madrid,3,,,False,5
+DOM 14.12.2025,21:00,LALIGA EA SPORTS,Deportivo Alavés,1,Real Madrid,2,"('Mendizorroza', 20320)",Vitoria,False,3
+MIE 10.12.2025,21:00,UEFA Champions League,Real Madrid,1,Man city,2,"('Santiago Bernabéu', 83088)",Madrid,True,3
+DOM 07.12.2025,21:00,LALIGA EA SPORTS,Real Madrid,0,Celta de Vigo,2,"('Santiago Bernabéu', 83088)",Madrid,True,2
+MIE 03.12.2025,19:00,LALIGA EA SPORTS,Athletic Club,0,Real Madrid,3,"('San Mamés', 53289)",Bilbao,False,3
+DOM 30.11.2025,21:00,LALIGA EA SPORTS,Girona FC,1,Real Madrid,1,"('Municipal de Montilivi', 14624)",Gerona,False,2
+MIE 26.11.2025,21:00,UEFA Champions League,Olympiacos,3,Real Madrid,4,,,False,7
+DOM 23.11.2025,21:00,LALIGA EA SPORTS,Elche CF,2,Real Madrid,2,"('Martínez Valero', 33732)",Elche,False,4
+DOM 09.11.2025,16:15,LALIGA EA SPORTS,Rayo Vallecano,0,Real Madrid,0,"('Estadio de Vallecas', 14708)",Madrid,False,0
+MAR 04.11.2025,21:00,UEFA Champions League,Liverpool,1,Real Madrid,0,,,False,1
+SAB 01.11.2025,21:00,LALIGA EA SPORTS,Real Madrid,4,Valencia CF,0,"('Santiago Bernabéu', 83088)",Madrid,True,4
+DOM 26.10.2025,16:15,LALIGA EA SPORTS,Real Madrid,2,FC Barcelona,1,"('Santiago Bernabéu', 83088)",Madrid,True,3
+MIE 22.10.2025,21:00,UEFA Champions League,Real Madrid,1,Juventus,0,"('Santiago Bernabéu', 83088)",Madrid,True,1
+DOM 19.10.2025,21:00,LALIGA EA SPORTS,Getafe CF,0,Real Madrid,1,"('Coliseum', 16500)",Getafe,False,1
+SAB 04.10.2025,21:00,LALIGA EA SPORTS,Real Madrid,3,Villarreal CF,1,"('Santiago Bernabéu', 83088)",Madrid,True,4
+MAR 30.09.2025,18:45,UEFA Champions League,Fc kairat almaty,0,Real Madrid,5,,,False,5
+SAB 27.09.2025,16:15,LALIGA EA SPORTS,Atlético de Madrid,5,Real Madrid,2,"('Riyadh Air Metropolitano', 70460)",Madrid,False,7
+MAR 23.09.2025,21:30,LALIGA EA SPORTS,Levante UD,1,Real Madrid,4,"('Ciudad de Valencia', 26354)",Valencia,False,5
+SAB 20.09.2025,16:15,LALIGA EA SPORTS,Real Madrid,2,RCD Espanyol,0,"('Santiago Bernabéu', 83088)",Madrid,True,2
+MAR 16.09.2025,21:00,UEFA Champions League,Real Madrid,2,Marseille,1,"('Santiago Bernabéu', 83088)",Madrid,True,3
+SAB 13.09.2025,16:15,LALIGA EA SPORTS,Real Sociedad,1,Real Madrid,2,"('Estadio de Anoeta', 39313)",San Sebastián,False,3
+SAB 30.08.2025,21:30,LALIGA EA SPORTS,Real Madrid,2,RCD Mallorca,1,"('Santiago Bernabéu', 83088)",Madrid,True,3
+DOM 24.08.2025,21:30,LALIGA EA SPORTS,Real Oviedo,0,Real Madrid,3,"('Carlos Tartiere', 30500)",Oviedo,False,3
+MAR 19.08.2025,21:00,LALIGA EA SPORTS,Real Madrid,1,CA Osasuna,0,"('Santiago Bernabéu', 83088)",Madrid,True,1
+MIE 09.07.2025,21:10,Mundial de Clubes FIFA,Psg,4,Real Madrid,0,,,False,4
+SAB 05.07.2025,22:00,Mundial de Clubes FIFA,Real Madrid,3,Borussia dortmund,2,"('Santiago Bernabéu', 83088)",Madrid,True,5
+MAR 01.07.2025,21:00,Mundial de Clubes FIFA,Real Madrid,1,Juventus,0,"('Santiago Bernabéu', 83088)",Madrid,True,1
+VIE 27.06.2025,03:00,Mundial de Clubes FIFA,Salzburgo,0,Real Madrid,3,,,False,3
+DOM 22.06.2025,21:00,Mundial de Clubes FIFA,Real Madrid,3,Pachuca,1,"('Santiago Bernabéu', 83088)",Madrid,True,4
+MIE 18.06.2025,21:00,Mundial de Clubes FIFA,Real Madrid,1,Al hilal fc,1,"('Santiago Bernabéu', 83088)",Madrid,True,2
+DOM 25.01.2026,16:15,LALIGA EA SPORTS,FC Barcelona,3,Real Oviedo,0,"('Spotify Camp Nou', 99354)",Barcelona,False,3
+SAB 17.01.2026,18:30,LALIGA EA SPORTS,CA Osasuna,3,Real Oviedo,2,"('El Sadar', 23576)",Pamplona,False,5
+SAB 10.01.2026,14:00,LALIGA EA SPORTS,Real Oviedo,1,Real Betis,1,"('Carlos Tartiere', 30500)",Oviedo,True,2
+DOM 04.01.2026,18:30,LALIGA EA SPORTS,Deportivo Alavés,1,Real Oviedo,1,"('Mendizorroza', 20320)",Vitoria,False,2
+SAB 20.12.2025,14:00,LALIGA EA SPORTS,Real Oviedo,0,Celta de Vigo,0,"('Carlos Tartiere', 30500)",Oviedo,True,0
+DOM 14.12.2025,14:00,LALIGA EA SPORTS,Sevilla FC,4,Real Oviedo,0,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,False,4
+VIE 05.12.2025,21:00,LALIGA EA SPORTS,Real Oviedo,0,RCD Mallorca,0,"('Carlos Tartiere', 30500)",Oviedo,True,0
+SAB 29.11.2025,21:00,LALIGA EA SPORTS,Atlético de Madrid,2,Real Oviedo,0,"('Riyadh Air Metropolitano', 70460)",Madrid,False,2
+DOM 23.11.2025,14:00,LALIGA EA SPORTS,Real Oviedo,0,Rayo Vallecano,0,"('Carlos Tartiere', 30500)",Oviedo,True,0
+DOM 09.11.2025,14:00,LALIGA EA SPORTS,Athletic Club,1,Real Oviedo,0,"('San Mamés', 53289)",Bilbao,False,1
+LUN 03.11.2025,21:00,LALIGA EA SPORTS,Real Oviedo,0,CA Osasuna,0,"('Carlos Tartiere', 30500)",Oviedo,True,0
+MAR 28.10.2025,19:00,Copa del Rey,Ourense cf,4,Real Oviedo,2,,,False,6
+SAB 25.10.2025,14:00,LALIGA EA SPORTS,Girona FC,3,Real Oviedo,3,"('Municipal de Montilivi', 14624)",Gerona,False,6
+VIE 17.10.2025,21:00,LALIGA EA SPORTS,Real Oviedo,0,RCD Espanyol,2,"('Carlos Tartiere', 30500)",Oviedo,True,2
+SAB 04.10.2025,14:00,LALIGA EA SPORTS,Real Oviedo,0,Levante UD,2,"('Carlos Tartiere', 30500)",Oviedo,True,2
+MAR 30.09.2025,20:00,LALIGA EA SPORTS,Valencia CF,1,Real Oviedo,2,"('Mestalla', 49430)",Valencia,False,3
+JUE 25.09.2025,21:30,LALIGA EA SPORTS,Real Oviedo,1,FC Barcelona,3,"('Carlos Tartiere', 30500)",Oviedo,True,4
+DOM 21.09.2025,18:30,LALIGA EA SPORTS,Elche CF,1,Real Oviedo,0,"('Martínez Valero', 33732)",Elche,False,1
+SAB 13.09.2025,14:00,LALIGA EA SPORTS,Getafe CF,2,Real Oviedo,0,"('Coliseum', 16500)",Getafe,False,2
+SAB 30.08.2025,19:00,LALIGA EA SPORTS,Real Oviedo,1,Real Sociedad,0,"('Carlos Tartiere', 30500)",Oviedo,True,1
+DOM 24.08.2025,21:30,LALIGA EA SPORTS,Real Oviedo,0,Real Madrid,3,"('Carlos Tartiere', 30500)",Oviedo,True,3
+VIE 15.08.2025,21:30,LALIGA EA SPORTS,Villarreal CF,2,Real Oviedo,0,"('La Cerámica', 23500)",Villarreal,False,2
+DOM 25.01.2026,18:30,LALIGA EA SPORTS,Real Sociedad,3,Celta de Vigo,1,"('Estadio de Anoeta', 39313)",San Sebastián,True,4
+DOM 18.01.2026,21:00,LALIGA EA SPORTS,Real Sociedad,2,FC Barcelona,1,"('Estadio de Anoeta', 39313)",San Sebastián,True,3
+MAR 13.01.2026,21:00,Copa del Rey,Real Sociedad,2,CA Osasuna,2,"('Estadio de Anoeta', 39313)",San Sebastián,True,4
+VIE 09.01.2026,21:00,LALIGA EA SPORTS,Getafe CF,1,Real Sociedad,2,"('Coliseum', 16500)",Getafe,False,3
+DOM 04.01.2026,21:00,LALIGA EA SPORTS,Real Sociedad,1,Atlético de Madrid,1,"('Estadio de Anoeta', 39313)",San Sebastián,True,2
+SAB 20.12.2025,16:15,LALIGA EA SPORTS,Levante UD,1,Real Sociedad,1,"('Ciudad de Valencia', 26354)",Valencia,False,2
+MAR 16.12.2025,21:00,Copa del Rey,Cd eldense,1,Real Sociedad,2,,,False,3
+VIE 12.12.2025,21:00,LALIGA EA SPORTS,Real Sociedad,1,Girona FC,2,"('Estadio de Anoeta', 39313)",San Sebastián,True,3
+SAB 06.12.2025,16:15,LALIGA EA SPORTS,Deportivo Alavés,1,Real Sociedad,0,"('Mendizorroza', 20320)",Vitoria,False,1
+MIE 03.12.2025,21:00,Copa del Rey,Reus fc reddis,0,Real Sociedad,2,,,False,2
+DOM 30.11.2025,14:00,LALIGA EA SPORTS,Real Sociedad,2,Villarreal CF,3,"('Estadio de Anoeta', 39313)",San Sebastián,True,5
+SAB 22.11.2025,18:30,LALIGA EA SPORTS,CA Osasuna,1,Real Sociedad,3,"('El Sadar', 23576)",Pamplona,False,4
+VIE 07.11.2025,21:00,LALIGA EA SPORTS,Elche CF,1,Real Sociedad,1,"('Martínez Valero', 33732)",Elche,False,2
+SAB 01.11.2025,18:30,LALIGA EA SPORTS,Real Sociedad,3,Athletic Club,2,"('Estadio de Anoeta', 39313)",San Sebastián,True,5
+MAR 28.10.2025,21:00,Copa del Rey,Sd negreira,0,Real Sociedad,3,,,False,3
+VIE 24.10.2025,21:00,LALIGA EA SPORTS,Real Sociedad,2,Sevilla FC,1,"('Estadio de Anoeta', 39313)",San Sebastián,True,3
+DOM 19.10.2025,16:15,LALIGA EA SPORTS,Celta de Vigo,1,Real Sociedad,1,"('Abanca-Balaídos', 24870)",Vigo,False,2
+DOM 05.10.2025,18:30,LALIGA EA SPORTS,Real Sociedad,0,Rayo Vallecano,1,"('Estadio de Anoeta', 39313)",San Sebastián,True,1
+DOM 28.09.2025,18:30,LALIGA EA SPORTS,FC Barcelona,2,Real Sociedad,1,"('Spotify Camp Nou', 99354)",Barcelona,False,3
+MIE 24.09.2025,21:30,LALIGA EA SPORTS,Real Sociedad,1,RCD Mallorca,0,"('Estadio de Anoeta', 39313)",San Sebastián,True,1
+VIE 19.09.2025,21:00,LALIGA EA SPORTS,Real Betis,3,Real Sociedad,1,"('Estadio de La Cartuja', 68887)",Sevilla,False,4
+SAB 13.09.2025,16:15,LALIGA EA SPORTS,Real Sociedad,1,Real Madrid,2,"('Estadio de Anoeta', 39313)",San Sebastián,True,3
+SAB 30.08.2025,19:00,LALIGA EA SPORTS,Real Oviedo,1,Real Sociedad,0,"('Carlos Tartiere', 30500)",Oviedo,False,1
+DOM 24.08.2025,19:30,LALIGA EA SPORTS,Real Sociedad,2,RCD Espanyol,2,"('Estadio de Anoeta', 39313)",San Sebastián,True,4
+SAB 16.08.2025,21:30,LALIGA EA SPORTS,Valencia CF,1,Real Sociedad,1,"('Mestalla', 49430)",Valencia,False,2
+SAB 24.01.2026,18:30,LALIGA EA SPORTS,Sevilla FC,2,Athletic Club,1,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,True,3
+LUN 19.01.2026,21:00,LALIGA EA SPORTS,Elche CF,2,Sevilla FC,2,"('Martínez Valero', 33732)",Elche,False,4
+LUN 12.01.2026,21:00,LALIGA EA SPORTS,Sevilla FC,0,Celta de Vigo,1,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,True,1
+DOM 04.01.2026,14:00,LALIGA EA SPORTS,Sevilla FC,0,Levante UD,3,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,True,3
+SAB 20.12.2025,21:00,LALIGA EA SPORTS,Real Madrid,2,Sevilla FC,0,"('Santiago Bernabéu', 83088)",Madrid,False,2
+MIE 17.12.2025,21:00,Copa del Rey,Deportivo Alavés,1,Sevilla FC,0,,,False,1
+DOM 14.12.2025,14:00,LALIGA EA SPORTS,Sevilla FC,4,Real Oviedo,0,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,True,4
+DOM 07.12.2025,16:15,LALIGA EA SPORTS,Valencia CF,1,Sevilla FC,1,"('Mestalla', 49430)",Valencia,False,2
+JUE 04.12.2025,21:00,Copa del Rey,Cd extremadura,1,Sevilla FC,2,,,False,3
+DOM 30.11.2025,16:15,LALIGA EA SPORTS,Sevilla FC,0,Real Betis,2,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,True,2
+LUN 24.11.2025,21:00,LALIGA EA SPORTS,RCD Espanyol,2,Sevilla FC,1,"('RCDE Stadium', 40000)",Cornellá de Llobregat,False,3
+SAB 08.11.2025,16:15,LALIGA EA SPORTS,Sevilla FC,1,CA Osasuna,0,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,True,1
+SAB 01.11.2025,16:15,LALIGA EA SPORTS,Atlético de Madrid,3,Sevilla FC,0,"('Riyadh Air Metropolitano', 70460)",Madrid,False,3
+MAR 28.10.2025,21:00,Copa del Rey,Toledo,1,Sevilla FC,4,,,False,5
+VIE 24.10.2025,21:00,LALIGA EA SPORTS,Real Sociedad,2,Sevilla FC,1,"('Estadio de Anoeta', 39313)",San Sebastián,False,3
+SAB 18.10.2025,14:00,LALIGA EA SPORTS,Sevilla FC,1,RCD Mallorca,3,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,True,4
+DOM 05.10.2025,16:15,LALIGA EA SPORTS,Sevilla FC,4,FC Barcelona,1,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,True,5
+DOM 28.09.2025,14:00,LALIGA EA SPORTS,Rayo Vallecano,0,Sevilla FC,1,"('Estadio de Vallecas', 14708)",Madrid,False,1
+MAR 23.09.2025,21:30,LALIGA EA SPORTS,Sevilla FC,1,Villarreal CF,2,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,True,3
+SAB 20.09.2025,18:30,LALIGA EA SPORTS,Deportivo Alavés,1,Sevilla FC,2,"('Mendizorroza', 20320)",Vitoria,False,3
+VIE 12.09.2025,21:00,LALIGA EA SPORTS,Sevilla FC,2,Elche CF,2,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,True,4
+SAB 30.08.2025,19:30,LALIGA EA SPORTS,Girona FC,0,Sevilla FC,2,"('Municipal de Montilivi', 14624)",Gerona,False,2
+LUN 25.08.2025,21:30,LALIGA EA SPORTS,Sevilla FC,1,Getafe CF,2,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,True,3
+DOM 17.08.2025,19:30,LALIGA EA SPORTS,Athletic Club,3,Sevilla FC,2,"('San Mamés', 53289)",Bilbao,False,5
+SAB 24.01.2026,16:15,LALIGA EA SPORTS,Valencia CF,3,RCD Espanyol,2,"('Mestalla', 49430)",Valencia,True,5
+DOM 18.01.2026,14:00,LALIGA EA SPORTS,Getafe CF,0,Valencia CF,1,"('Coliseum', 16500)",Getafe,False,1
+JUE 15.01.2026,21:00,Copa del Rey,Burgos cf,0,Valencia CF,2,,,False,2
+SAB 10.01.2026,21:00,LALIGA EA SPORTS,Valencia CF,1,Elche CF,1,"('Mestalla', 49430)",Valencia,True,2
+SAB 03.01.2026,14:00,LALIGA EA SPORTS,Celta de Vigo,4,Valencia CF,1,"('Abanca-Balaídos', 24870)",Vigo,False,5
+VIE 19.12.2025,21:00,LALIGA EA SPORTS,Valencia CF,1,RCD Mallorca,1,"('Mestalla', 49430)",Valencia,True,2
+MAR 16.12.2025,21:00,Copa del Rey,Real sporting,0,Valencia CF,2,,,False,2
+SAB 13.12.2025,14:00,LALIGA EA SPORTS,Atlético de Madrid,2,Valencia CF,1,"('Riyadh Air Metropolitano', 70460)",Madrid,False,3
+DOM 07.12.2025,16:15,LALIGA EA SPORTS,Valencia CF,1,Sevilla FC,1,"('Mestalla', 49430)",Valencia,True,2
+JUE 04.12.2025,21:00,Copa del Rey,Fc cartagena,1,Valencia CF,2,,,False,3
+LUN 01.12.2025,21:00,LALIGA EA SPORTS,Rayo Vallecano,1,Valencia CF,1,"('Estadio de Vallecas', 14708)",Madrid,False,2
+VIE 21.11.2025,21:00,LALIGA EA SPORTS,Valencia CF,1,Levante UD,0,"('Mestalla', 49430)",Valencia,True,1
+DOM 09.11.2025,18:30,LALIGA EA SPORTS,Valencia CF,1,Real Betis,1,"('Mestalla', 49430)",Valencia,True,2
+SAB 01.11.2025,21:00,LALIGA EA SPORTS,Real Madrid,4,Valencia CF,0,"('Santiago Bernabéu', 83088)",Madrid,False,4
+MAR 28.10.2025,20:00,Copa del Rey,Ud maracena,0,Valencia CF,5,,,False,5
+SAB 25.10.2025,21:00,LALIGA EA SPORTS,Valencia CF,0,Villarreal CF,2,"('Mestalla', 49430)",Valencia,True,2
+LUN 20.10.2025,21:00,LALIGA EA SPORTS,Deportivo Alavés,0,Valencia CF,0,"('Mendizorroza', 20320)",Vitoria,False,0
+SAB 04.10.2025,16:15,LALIGA EA SPORTS,Girona FC,2,Valencia CF,1,"('Municipal de Montilivi', 14624)",Gerona,False,3
+MAR 30.09.2025,20:00,LALIGA EA SPORTS,Valencia CF,1,Real Oviedo,2,"('Mestalla', 49430)",Valencia,True,3
+MAR 23.09.2025,19:00,LALIGA EA SPORTS,RCD Espanyol,2,Valencia CF,2,"('RCDE Stadium', 40000)",Cornellá de Llobregat,False,4
+SAB 20.09.2025,21:00,LALIGA EA SPORTS,Valencia CF,2,Athletic Club,0,"('Mestalla', 49430)",Valencia,True,2
+DOM 14.09.2025,21:00,LALIGA EA SPORTS,FC Barcelona,6,Valencia CF,0,"('Spotify Camp Nou', 99354)",Barcelona,False,6
+VIE 29.08.2025,21:30,LALIGA EA SPORTS,Valencia CF,3,Getafe CF,0,"('Mestalla', 49430)",Valencia,True,3
+DOM 24.08.2025,17:00,LALIGA EA SPORTS,CA Osasuna,1,Valencia CF,0,"('El Sadar', 23576)",Pamplona,False,1
+SAB 16.08.2025,21:30,LALIGA EA SPORTS,Valencia CF,1,Real Sociedad,1,"('Mestalla', 49430)",Valencia,True,2
+MIÉ  28.01.2026,21:00,UEFA Champions League,Bayer 04,3,Villarreal CF,0,,,False,3
+SÁB  24.01.2026,21:00,LALIGA EA SPORTS,Villarreal CF,0,Real Madrid,2,"('La Cerámica', 23500)",Villarreal,True,2
+MAR  20.01.2026,21:00,UEFA Champions League,Villarreal CF,1,Ajax,2,"('La Cerámica', 23500)",Villarreal,True,3
+SÁB  17.01.2026,21:00,LALIGA EA SPORTS,Real Betis,2,Villarreal CF,0,"('Estadio de La Cartuja', 68887)",Sevilla,False,2
+SÁB  10.01.2026,16:15,LALIGA EA SPORTS,Villarreal CF,3,Deportivo Alavés,1,"('La Cerámica', 23500)",Villarreal,True,4
+SÁB  03.01.2026,18:30,LALIGA EA SPORTS,Elche CF,1,Villarreal CF,3,"('Martínez Valero', 33732)",Elche,False,4
+DOM  21.12.2025,16:15,LALIGA EA SPORTS,Villarreal CF,0,FC Barcelona,2,"('La Cerámica', 23500)",Villarreal,True,2
+MIÉ  17.12.2025,19:00,Copa del Rey,R. racing club,2,Villarreal CF,1,,,False,3
+MIÉ  10.12.2025,18:45,UEFA Champions League,Villarreal CF,2,Copenhague,3,"('La Cerámica', 23500)",Villarreal,True,5
+SÁB  06.12.2025,14:00,LALIGA EA SPORTS,Villarreal CF,2,Getafe CF,0,"('La Cerámica', 23500)",Villarreal,True,2
+MIÉ  03.12.2025,21:00,Copa del Rey,Club atletico antoniano,1,Villarreal CF,1,,,False,2
+DOM  30.11.2025,14:00,LALIGA EA SPORTS,Real Sociedad,2,Villarreal CF,3,"('Estadio de Anoeta', 39313)",San Sebastián,False,5
+MAR  25.11.2025,21:00,UEFA Champions League,Borussia dortmund,4,Villarreal CF,0,,,False,4
+SÁB  22.11.2025,21:00,LALIGA EA SPORTS,Villarreal CF,2,RCD Mallorca,1,"('La Cerámica', 23500)",Villarreal,True,3
+SÁB  08.11.2025,21:00,LALIGA EA SPORTS,RCD Espanyol,0,Villarreal CF,2,"('RCDE Stadium', 40000)",Cornellá de Llobregat,False,2
+MIÉ  05.11.2025,18:45,UEFA Champions League,Pafos fc,1,Villarreal CF,0,,,False,1
+SÁB  01.11.2025,14:00,LALIGA EA SPORTS,Villarreal CF,4,Rayo Vallecano,0,"('La Cerámica', 23500)",Villarreal,True,4
+MIÉ  29.10.2025,21:00,Copa del Rey,Lucena,0,Villarreal CF,6,,,False,6
+SÁB  25.10.2025,21:00,LALIGA EA SPORTS,Valencia CF,0,Villarreal CF,2,"('Mestalla', 49430)",Valencia,False,2
+MAR  21.10.2025,21:00,UEFA Champions League,Villarreal CF,0,Man city,2,"('La Cerámica', 23500)",Villarreal,True,2
+SÁB  18.10.2025,18:30,LALIGA EA SPORTS,Villarreal CF,2,Real Betis,2,"('La Cerámica', 23500)",Villarreal,True,4
+SÁB  04.10.2025,21:00,LALIGA EA SPORTS,Real Madrid,3,Villarreal CF,1,"('Santiago Bernabéu', 83088)",Madrid,False,4
+MIÉ  01.10.2025,21:00,UEFA Champions League,Villarreal CF,2,Juventus,2,"('La Cerámica', 23500)",Villarreal,True,4
+SÁB  27.09.2025,21:00,LALIGA EA SPORTS,Villarreal CF,1,Athletic Club,0,"('La Cerámica', 23500)",Villarreal,True,1
+MAR  23.09.2025,21:30,LALIGA EA SPORTS,Sevilla FC,1,Villarreal CF,2,"('Ramón Sánchez-Pizjuán', 43883)",Sevilla,False,3
+SÁB  20.09.2025,18:30,LALIGA EA SPORTS,Villarreal CF,2,CA Osasuna,1,"('La Cerámica', 23500)",Villarreal,True,3
+MAR  16.09.2025,21:00,UEFA Champions League,Spurs,1,Villarreal CF,0,,,False,1
+SÁB  13.09.2025,21:00,LALIGA EA SPORTS,Atlético de Madrid,2,Villarreal CF,0,"('Riyadh Air Metropolitano', 70460)",Madrid,False,2
+DOM  31.08.2025,17:00,LALIGA EA SPORTS,Celta de Vigo,1,Villarreal CF,1,"('Abanca-Balaídos', 24870)",Vigo,False,2
+DOM  24.08.2025,19:30,LALIGA EA SPORTS,Villarreal CF,5,Girona FC,0,"('La Cerámica', 23500)",Villarreal,True,5
+VIE  15.08.2025,21:30,LALIGA EA SPORTS,Villarreal CF,2,Real Oviedo,0,"('La Cerámica', 23500)",Villarreal,True,2

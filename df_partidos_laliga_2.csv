@@ -1,0 +1,507 @@
+Fecha,Hora,Competicion,Local,Goles_local,Visitante,Goles_visitante,Estadio,Ciudad,En_casa,Total_goles_partido
+LUN  26.01.2026,20:30,LALIGA HYPERMOTION,AD Ceuta FC,3,Cultural Leonesa,1,"('Alfonso Murube', 6500)",Ceuta,True,4
+SÁB  17.01.2026,14:00,LALIGA HYPERMOTION,AD Ceuta FC,0,Real Valladolid,3,"('Alfonso Murube', 6500)",Ceuta,True,3
+DOM  11.01.2026,16:15,LALIGA HYPERMOTION,Málaga CF,2,AD Ceuta FC,1,"('La Rosaleda', 30044)",Málaga,False,3
+DOM  04.01.2026,16:15,LALIGA HYPERMOTION,AD Ceuta FC,2,FC Andorra,1,"('Alfonso Murube', 6500)",Ceuta,True,3
+DOM  21.12.2025,16:15,LALIGA HYPERMOTION,Real Sociedad B,1,AD Ceuta FC,3,"('Estadio Zubieta', 2500)",San Sebastián,False,4
+DOM  14.12.2025,21:00,LALIGA HYPERMOTION,AD Ceuta FC,1,UD Las Palmas,1,"('Alfonso Murube', 6500)",Ceuta,True,2
+DOM  07.12.2025,21:00,LALIGA HYPERMOTION,Granada CF,1,AD Ceuta FC,1,"('Nuevo Los Cármenes', 19336)",Granada,False,2
+SÁB  29.11.2025,14:00,LALIGA HYPERMOTION,AD Ceuta FC,1,Burgos CF,0,"('Alfonso Murube', 6500)",Ceuta,True,1
+MIÉ  26.11.2025,19:00,LALIGA HYPERMOTION,AD Ceuta FC,3,UD Almería,2,"('Alfonso Murube', 6500)",Ceuta,True,5
+DOM  23.11.2025,14:00,LALIGA HYPERMOTION,RC Deportivo,2,AD Ceuta FC,1,"('Abanca-Riazor', 32490)",La Coruña,False,3
+DOM  16.11.2025,14:00,LALIGA HYPERMOTION,AD Ceuta FC,1,CD Leganés,2,"('Alfonso Murube', 6500)",Ceuta,True,3
+DOM  02.11.2025,16:15,LALIGA HYPERMOTION,Córdoba CF,2,AD Ceuta FC,0,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,False,2
+SÁB  25.10.2025,14:00,LALIGA HYPERMOTION,Cultural Leonesa,0,AD Ceuta FC,1,"('Reino de León', 13346)",León,False,1
+SÁB  18.10.2025,16:15,LALIGA HYPERMOTION,AD Ceuta FC,2,CD Mirandés,0,"('Alfonso Murube', 6500)",Ceuta,True,2
+DOM  12.10.2025,14:00,LALIGA HYPERMOTION,Albacete BP,0,AD Ceuta FC,0,"('Carlos Belmonte', 18000)",Albacete,False,0
+VIE  03.10.2025,20:30,LALIGA HYPERMOTION,AD Ceuta FC,1,SD Eibar,0,"('Alfonso Murube', 6500)",Ceuta,True,1
+DOM  28.09.2025,16:15,LALIGA HYPERMOTION,Cádiz CF,0,AD Ceuta FC,0,"('Nuevo Mirandilla', 20724)",Cádiz,False,0
+DOM  21.09.2025,14:00,LALIGA HYPERMOTION,AD Ceuta FC,1,Real Zaragoza,0,"('Alfonso Murube', 6500)",Ceuta,True,1
+DOM  14.09.2025,18:30,LALIGA HYPERMOTION,CD Castellón,3,AD Ceuta FC,3,"('Skyfi Castalia', 15500)",Castellón de la Plana,False,6
+DOM  07.09.2025,14:00,LALIGA HYPERMOTION,AD Ceuta FC,2,SD Huesca,1,"('Alfonso Murube', 6500)",Ceuta,True,3
+SÁB  30.08.2025,17:00,LALIGA HYPERMOTION,Racing de Santander,4,AD Ceuta FC,1,"('El Sardinero', 21514)",Santander,False,5
+SÁB  23.08.2025,19:00,LALIGA HYPERMOTION,AD Ceuta FC,0,Real Sporting,1,"('Alfonso Murube', 6500)",Ceuta,True,1
+VIE  15.08.2025,21:30,LALIGA HYPERMOTION,Real Valladolid,3,AD Ceuta FC,0,"('José Zorrilla', 27618)",Valladolid,False,3
+SAB 24.01.2026,14:00,LALIGA HYPERMOTION,Real Valladolid,0,Albacete BP,1,"('José Zorrilla', 27618)",Valladolid,False,1
+DOM 18.01.2026,18:30,LALIGA HYPERMOTION,Albacete BP,1,Cádiz CF,0,"('Carlos Belmonte', 18000)",Albacete,True,1
+SAB 10.01.2026,16:15,LALIGA HYPERMOTION,Real Sociedad B,0,Albacete BP,0,"('Estadio Zubieta', 2500)",San Sebastián,False,0
+DOM 04.01.2026,18:30,LALIGA HYPERMOTION,Albacete BP,1,CD Leganés,3,"('Carlos Belmonte', 18000)",Albacete,True,4
+DOM 21.12.2025,18:30,LALIGA HYPERMOTION,Granada CF,1,Albacete BP,1,"('Nuevo Los Cármenes', 19336)",Granada,False,2
+DOM 14.12.2025,16:15,LALIGA HYPERMOTION,Albacete BP,1,Málaga CF,3,"('Carlos Belmonte', 18000)",Albacete,True,4
+LUN 08.12.2025,16:15,LALIGA HYPERMOTION,Burgos CF,0,Albacete BP,1,"('El Plantío', 12194)",Burgos,False,1
+SAB 29.11.2025,18:30,LALIGA HYPERMOTION,Albacete BP,0,RC Deportivo,2,"('Carlos Belmonte', 18000)",Albacete,True,2
+VIE 21.11.2025,20:30,LALIGA HYPERMOTION,UD Las Palmas,2,Albacete BP,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,False,3
+SAB 15.11.2025,16:00,LALIGA HYPERMOTION,Albacete BP,1,FC Andorra,0,"('Carlos Belmonte', 18000)",Albacete,True,1
+SAB 08.11.2025,16:15,LALIGA HYPERMOTION,SD Eibar,3,Albacete BP,2,"('Ipurúa', 8164)",Éibar,False,5
+SAB 01.11.2025,18:30,LALIGA HYPERMOTION,Albacete BP,2,SD Huesca,1,"('Carlos Belmonte', 18000)",Albacete,True,3
+SAB 25.10.2025,16:15,LALIGA HYPERMOTION,Albacete BP,1,Córdoba CF,3,"('Carlos Belmonte', 18000)",Albacete,True,4
+DOM 19.10.2025,16:15,LALIGA HYPERMOTION,CD Castellón,0,Albacete BP,1,"('Skyfi Castalia', 15500)",Castellón de la Plana,False,1
+DOM 12.10.2025,14:00,LALIGA HYPERMOTION,Albacete BP,0,AD Ceuta FC,0,"('Carlos Belmonte', 18000)",Albacete,True,0
+LUN 06.10.2025,20:30,LALIGA HYPERMOTION,Cultural Leonesa,0,Albacete BP,0,"('Reino de León', 13346)",León,False,0
+DOM 28.09.2025,18:30,LALIGA HYPERMOTION,Real Sporting,3,Albacete BP,4,"('El Molinón', 30000)",Gijón,False,7
+DOM 21.09.2025,16:15,LALIGA HYPERMOTION,Albacete BP,2,Real Valladolid,0,"('Carlos Belmonte', 18000)",Albacete,True,2
+LUN 15.09.2025,20:30,LALIGA HYPERMOTION,Real Zaragoza,0,Albacete BP,0,"('Ibercaja Estadio', 20103)",Zaragoza,False,0
+VIE 05.09.2025,19:30,LALIGA HYPERMOTION,Albacete BP,1,CD Mirandés,4,"('Carlos Belmonte', 18000)",Albacete,True,5
+DOM 31.08.2025,17:00,LALIGA HYPERMOTION,Cádiz CF,2,Albacete BP,1,"('Nuevo Mirandilla', 20724)",Cádiz,False,3
+LUN 25.08.2025,19:30,LALIGA HYPERMOTION,Albacete BP,2,Racing de Santander,3,"('Carlos Belmonte', 18000)",Albacete,True,5
+LUN 18.08.2025,21:30,LALIGA HYPERMOTION,UD Almería,4,Albacete BP,4,"('UD Almería Stadium', 18331)",Almería,False,8
+VIE  23.01.2026,20:30,LALIGA HYPERMOTION,Málaga CF,3,Burgos CF,0,"('La Rosaleda', 30044)",Málaga,False,3
+DOM  18.01.2026,18:30,LALIGA HYPERMOTION,Burgos CF,1,SD Huesca,0,"('El Plantío', 12194)",Burgos,True,1
+SÁB  10.01.2026,18:30,LALIGA HYPERMOTION,Burgos CF,1,SD Eibar,0,"('El Plantío', 12194)",Burgos,True,1
+SÁB  03.01.2026,21:00,LALIGA HYPERMOTION,Córdoba CF,2,Burgos CF,0,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,False,2
+DOM  21.12.2025,18:30,LALIGA HYPERMOTION,Burgos CF,1,Real Zaragoza,1,"('El Plantío', 12194)",Burgos,True,2
+DOM  14.12.2025,18:30,LALIGA HYPERMOTION,UD Almería,1,Burgos CF,2,"('UD Almería Stadium', 18331)",Almería,False,3
+LUN  08.12.2025,16:15,LALIGA HYPERMOTION,Burgos CF,0,Albacete BP,1,"('El Plantío', 12194)",Burgos,True,1
+SÁB  29.11.2025,14:00,LALIGA HYPERMOTION,AD Ceuta FC,1,Burgos CF,0,"('Alfonso Murube', 6500)",Ceuta,False,1
+DOM  23.11.2025,18:30,LALIGA HYPERMOTION,Burgos CF,0,Racing de Santander,2,"('El Plantío', 12194)",Burgos,True,2
+DOM  16.11.2025,18:30,LALIGA HYPERMOTION,CD Mirandés,0,Burgos CF,2,"('Anduva', 5759)",Miranda de Ebro,False,2
+LUN  10.11.2025,20:30,LALIGA HYPERMOTION,Burgos CF,0,CD Castellón,0,"('El Plantío', 12194)",Burgos,True,0
+SÁB  01.11.2025,18:30,LALIGA HYPERMOTION,CD Leganés,1,Burgos CF,2,"('Ontime Butarque', 13089)",Leganés,False,3
+SÁB  25.10.2025,18:30,LALIGA HYPERMOTION,Burgos CF,1,Real Sociedad B,0,"('El Plantío', 12194)",Burgos,True,1
+LUN  20.10.2025,20:30,LALIGA HYPERMOTION,Cádiz CF,1,Burgos CF,3,"('Nuevo Mirandilla', 20724)",Cádiz,False,4
+DOM  12.10.2025,18:30,LALIGA HYPERMOTION,Burgos CF,0,Real Valladolid,1,"('El Plantío', 12194)",Burgos,True,1
+SÁB  04.10.2025,18:30,LALIGA HYPERMOTION,SD Huesca,2,Burgos CF,1,"('El Alcoraz', 9128)",Huesca,False,3
+DOM  28.09.2025,16:15,LALIGA HYPERMOTION,Burgos CF,2,Málaga CF,1,"('El Plantío', 12194)",Burgos,True,3
+LUN  22.09.2025,20:30,LALIGA HYPERMOTION,Burgos CF,1,Granada CF,1,"('El Plantío', 12194)",Burgos,True,2
+DOM  14.09.2025,18:30,LALIGA HYPERMOTION,Real Sporting,2,Burgos CF,3,"('El Molinón', 30000)",Gijón,False,5
+DOM  07.09.2025,16:15,LALIGA HYPERMOTION,Burgos CF,0,UD Las Palmas,0,"('El Plantío', 12194)",Burgos,True,0
+DOM  31.08.2025,17:00,LALIGA HYPERMOTION,FC Andorra,2,Burgos CF,1,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,False,3
+DOM  24.08.2025,17:00,LALIGA HYPERMOTION,RC Deportivo,0,Burgos CF,0,"('Abanca-Riazor', 32490)",La Coruña,False,0
+VIE  15.08.2025,21:30,LALIGA HYPERMOTION,Burgos CF,5,Cultural Leonesa,1,"('El Plantío', 12194)",Burgos,True,6
+SAB 24.01.2026,21:00,LALIGA HYPERMOTION,Cádiz CF,1,Granada CF,2,"('Nuevo Mirandilla', 20724)",Cádiz,True,3
+DOM 18.01.2026,18:30,LALIGA HYPERMOTION,Albacete BP,1,Cádiz CF,0,"('Carlos Belmonte', 18000)",Albacete,False,1
+VIE 09.01.2026,20:30,LALIGA HYPERMOTION,Cádiz CF,3,Real Sporting,2,"('Nuevo Mirandilla', 20724)",Cádiz,True,5
+DOM 04.01.2026,21:00,LALIGA HYPERMOTION,RC Deportivo,2,Cádiz CF,2,"('Abanca-Riazor', 32490)",La Coruña,False,4
+DOM 21.12.2025,21:00,LALIGA HYPERMOTION,Cádiz CF,2,CD Castellón,0,"('Nuevo Mirandilla', 20724)",Cádiz,True,2
+SAB 13.12.2025,21:00,LALIGA HYPERMOTION,Real Zaragoza,1,Cádiz CF,2,"('Ibercaja Estadio', 20103)",Zaragoza,False,3
+DOM 07.12.2025,14:00,LALIGA HYPERMOTION,Cádiz CF,2,Racing de Santander,3,"('Nuevo Mirandilla', 20724)",Cádiz,True,5
+DOM 30.11.2025,18:30,LALIGA HYPERMOTION,Córdoba CF,1,Cádiz CF,2,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,False,3
+DOM 23.11.2025,16:15,LALIGA HYPERMOTION,Cádiz CF,1,Cultural Leonesa,2,"('Nuevo Mirandilla', 20724)",Cádiz,True,3
+DOM 16.11.2025,16:15,LALIGA HYPERMOTION,UD Almería,3,Cádiz CF,0,"('UD Almería Stadium', 18331)",Almería,False,3
+DOM 09.11.2025,21:00,LALIGA HYPERMOTION,Cádiz CF,0,Real Valladolid,0,"('Nuevo Mirandilla', 20724)",Cádiz,True,0
+DOM 02.11.2025,14:00,LALIGA HYPERMOTION,FC Andorra,0,Cádiz CF,0,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,False,0
+SAB 25.10.2025,18:30,LALIGA HYPERMOTION,Granada CF,0,Cádiz CF,0,"('Nuevo Los Cármenes', 19336)",Granada,False,0
+LUN 20.10.2025,20:30,LALIGA HYPERMOTION,Cádiz CF,1,Burgos CF,3,"('Nuevo Mirandilla', 20724)",Cádiz,True,4
+DOM 12.10.2025,18:30,LALIGA HYPERMOTION,Cádiz CF,1,SD Huesca,0,"('Nuevo Mirandilla', 20724)",Cádiz,True,1
+DOM 05.10.2025,21:00,LALIGA HYPERMOTION,UD Las Palmas,1,Cádiz CF,0,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,False,1
+DOM 28.09.2025,16:15,LALIGA HYPERMOTION,Cádiz CF,0,AD Ceuta FC,0,"('Nuevo Mirandilla', 20724)",Cádiz,True,0
+DOM 21.09.2025,18:30,LALIGA HYPERMOTION,Málaga CF,0,Cádiz CF,1,"('La Rosaleda', 30044)",Málaga,False,1
+SAB 13.09.2025,16:15,LALIGA HYPERMOTION,Cádiz CF,1,SD Eibar,0,"('Nuevo Mirandilla', 20724)",Cádiz,True,1
+DOM 07.09.2025,16:15,LALIGA HYPERMOTION,Real Sociedad B,3,Cádiz CF,3,"('Estadio Zubieta', 2500)",San Sebastián,False,6
+DOM 31.08.2025,17:00,LALIGA HYPERMOTION,Cádiz CF,2,Albacete BP,1,"('Nuevo Mirandilla', 20724)",Cádiz,True,3
+VIE 22.08.2025,21:30,LALIGA HYPERMOTION,CD Leganés,1,Cádiz CF,1,"('Ontime Butarque', 13089)",Leganés,False,2
+DOM 17.08.2025,19:30,LALIGA HYPERMOTION,Cádiz CF,1,CD Mirandés,0,"('Nuevo Mirandilla', 20724)",Cádiz,True,1
+DOM  25.01.2026,18:30,LALIGA HYPERMOTION,Real Zaragoza,0,CD Castellón,0,"('Ibercaja Estadio', 20103)",Zaragoza,False,0
+VIE  16.01.2026,20:30,LALIGA HYPERMOTION,CD Castellón,2,CD Leganés,0,"('Skyfi Castalia', 15500)",Castellón de la Plana,True,2
+DOM  11.01.2026,16:15,LALIGA HYPERMOTION,Granada CF,0,CD Castellón,0,"('Nuevo Los Cármenes', 19336)",Granada,False,0
+SÁB  03.01.2026,16:15,LALIGA HYPERMOTION,CD Castellón,4,SD Huesca,1,"('Skyfi Castalia', 15500)",Castellón de la Plana,True,5
+DOM  21.12.2025,21:00,LALIGA HYPERMOTION,Cádiz CF,2,CD Castellón,0,"('Nuevo Mirandilla', 20724)",Cádiz,False,2
+LUN  15.12.2025,20:30,LALIGA HYPERMOTION,CD Castellón,3,CD Mirandés,1,"('Skyfi Castalia', 15500)",Castellón de la Plana,True,4
+DOM  07.12.2025,18:30,LALIGA HYPERMOTION,RC Deportivo,1,CD Castellón,3,"('Abanca-Riazor', 32490)",La Coruña,False,4
+DOM  30.11.2025,21:00,LALIGA HYPERMOTION,CD Castellón,1,UD Las Palmas,0,"('Skyfi Castalia', 15500)",Castellón de la Plana,True,1
+SÁB  22.11.2025,16:15,LALIGA HYPERMOTION,FC Andorra,1,CD Castellón,3,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,False,4
+SÁB  15.11.2025,16:00,LALIGA HYPERMOTION,CD Castellón,5,Real Sociedad B,4,"('Skyfi Castalia', 15500)",Castellón de la Plana,True,9
+LUN  10.11.2025,20:30,LALIGA HYPERMOTION,Burgos CF,0,CD Castellón,0,"('El Plantío', 12194)",Burgos,False,0
+DOM  02.11.2025,18:30,LALIGA HYPERMOTION,CD Castellón,2,Málaga CF,1,"('Skyfi Castalia', 15500)",Castellón de la Plana,True,3
+DOM  26.10.2025,18:30,LALIGA HYPERMOTION,UD Almería,1,CD Castellón,0,"('UD Almería Stadium', 18331)",Almería,False,1
+DOM  19.10.2025,16:15,LALIGA HYPERMOTION,CD Castellón,0,Albacete BP,1,"('Skyfi Castalia', 15500)",Castellón de la Plana,True,1
+DOM  12.10.2025,16:15,LALIGA HYPERMOTION,SD Eibar,0,CD Castellón,0,"('Ipurúa', 8164)",Éibar,False,0
+DOM  05.10.2025,16:15,LALIGA HYPERMOTION,CD Castellón,3,Real Sporting,1,"('Skyfi Castalia', 15500)",Castellón de la Plana,True,4
+LUN  29.09.2025,20:30,LALIGA HYPERMOTION,CD Leganés,0,CD Castellón,1,"('Ontime Butarque', 13089)",Leganés,False,1
+SÁB  20.09.2025,16:15,LALIGA HYPERMOTION,Cultural Leonesa,1,CD Castellón,3,"('Reino de León', 13346)",León,False,4
+DOM  14.09.2025,18:30,LALIGA HYPERMOTION,CD Castellón,3,AD Ceuta FC,3,"('Skyfi Castalia', 15500)",Castellón de la Plana,True,6
+VIE  05.09.2025,21:30,LALIGA HYPERMOTION,Córdoba CF,2,CD Castellón,1,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,False,3
+SÁB  30.08.2025,21:30,LALIGA HYPERMOTION,CD Castellón,1,Real Zaragoza,1,"('Skyfi Castalia', 15500)",Castellón de la Plana,True,2
+VIE  22.08.2025,21:30,LALIGA HYPERMOTION,CD Castellón,0,Real Valladolid,1,"('Skyfi Castalia', 15500)",Castellón de la Plana,True,1
+SÁB  16.08.2025,17:00,LALIGA HYPERMOTION,Racing de Santander,3,CD Castellón,1,"('El Sardinero', 21514)",Santander,False,4
+SÁB  24.01.2026,16:15,LALIGA HYPERMOTION,CD Leganés,2,Real Sociedad B,0,"('Ontime Butarque', 13089)",Leganés,True,2
+VIE  16.01.2026,20:30,LALIGA HYPERMOTION,CD Castellón,2,CD Leganés,0,"('Skyfi Castalia', 15500)",Castellón de la Plana,False,2
+DOM  11.01.2026,14:00,LALIGA HYPERMOTION,CD Leganés,3,Real Valladolid,0,"('Ontime Butarque', 13089)",Leganés,True,3
+DOM  04.01.2026,18:30,LALIGA HYPERMOTION,Albacete BP,1,CD Leganés,3,"('Carlos Belmonte', 18000)",Albacete,False,4
+SÁB  20.12.2025,18:30,LALIGA HYPERMOTION,CD Leganés,0,Real Sporting,1,"('Ontime Butarque', 13089)",Leganés,True,1
+SÁB  13.12.2025,18:30,LALIGA HYPERMOTION,Racing de Santander,1,CD Leganés,1,"('El Sardinero', 21514)",Santander,False,2
+DOM  07.12.2025,16:15,LALIGA HYPERMOTION,CD Leganés,0,Córdoba CF,0,"('Ontime Butarque', 13089)",Leganés,True,0
+DOM  30.11.2025,14:00,LALIGA HYPERMOTION,Real Zaragoza,3,CD Leganés,2,"('Ibercaja Estadio', 20103)",Zaragoza,False,5
+SÁB  22.11.2025,18:30,LALIGA HYPERMOTION,CD Leganés,0,UD Almería,3,"('Ontime Butarque', 13089)",Leganés,True,3
+DOM  16.11.2025,14:00,LALIGA HYPERMOTION,AD Ceuta FC,1,CD Leganés,2,"('Alfonso Murube', 6500)",Ceuta,False,3
+SÁB  08.11.2025,14:00,LALIGA HYPERMOTION,Real Sociedad B,2,CD Leganés,1,"('Estadio Zubieta', 2500)",San Sebastián,False,3
+SÁB  01.11.2025,18:30,LALIGA HYPERMOTION,CD Leganés,1,Burgos CF,2,"('Ontime Butarque', 13089)",Leganés,True,3
+SÁB  25.10.2025,16:15,LALIGA HYPERMOTION,SD Eibar,0,CD Leganés,0,"('Ipurúa', 8164)",Éibar,False,0
+DOM  19.10.2025,14:00,LALIGA HYPERMOTION,CD Leganés,2,Málaga CF,0,"('Ontime Butarque', 13089)",Leganés,True,2
+SÁB  11.10.2025,16:15,LALIGA HYPERMOTION,CD Mirandés,0,CD Leganés,0,"('Anduva', 5759)",Miranda de Ebro,False,0
+SÁB  04.10.2025,18:30,LALIGA HYPERMOTION,FC Andorra,1,CD Leganés,2,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,False,3
+LUN  29.09.2025,20:30,LALIGA HYPERMOTION,CD Leganés,0,CD Castellón,1,"('Ontime Butarque', 13089)",Leganés,True,1
+SÁB  20.09.2025,18:30,LALIGA HYPERMOTION,CD Leganés,0,UD Las Palmas,1,"('Ontime Butarque', 13089)",Leganés,True,1
+DOM  14.09.2025,21:00,LALIGA HYPERMOTION,Granada CF,0,CD Leganés,2,"('Nuevo Los Cármenes', 19336)",Granada,False,2
+DOM  07.09.2025,18:30,LALIGA HYPERMOTION,Cultural Leonesa,0,CD Leganés,0,"('Reino de León', 13346)",León,False,0
+LUN  01.09.2025,21:30,LALIGA HYPERMOTION,CD Leganés,2,RC Deportivo,2,"('Ontime Butarque', 13089)",Leganés,True,4
+VIE  22.08.2025,21:30,LALIGA HYPERMOTION,CD Leganés,1,Cádiz CF,1,"('Ontime Butarque', 13089)",Leganés,True,2
+DOM  17.08.2025,21:30,LALIGA HYPERMOTION,SD Huesca,1,CD Leganés,1,"('El Alcoraz', 9128)",Huesca,False,2
+SÁB  24.01.2026,18:30,LALIGA HYPERMOTION,Real Sporting,3,CD Mirandés,0,"('El Molinón', 30000)",Gijón,False,3
+DOM  18.01.2026,14:00,LALIGA HYPERMOTION,CD Mirandés,1,FC Andorra,2,"('Anduva', 5759)",Miranda de Ebro,True,3
+SÁB  10.01.2026,14:00,LALIGA HYPERMOTION,CD Mirandés,2,UD Almería,2,"('Anduva', 5759)",Miranda de Ebro,True,4
+VIE  02.01.2026,20:30,LALIGA HYPERMOTION,SD Eibar,2,CD Mirandés,1,"('Ipurúa', 8164)",Éibar,False,3
+DOM  21.12.2025,16:15,LALIGA HYPERMOTION,CD Mirandés,1,Córdoba CF,2,"('Anduva', 5759)",Miranda de Ebro,True,3
+LUN  15.12.2025,20:30,LALIGA HYPERMOTION,CD Castellón,3,CD Mirandés,1,"('Skyfi Castalia', 15500)",Castellón de la Plana,False,4
+LUN  08.12.2025,18:30,LALIGA HYPERMOTION,UD Las Palmas,0,CD Mirandés,0,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,False,0
+DOM  30.11.2025,18:30,LALIGA HYPERMOTION,CD Mirandés,1,Real Sociedad B,0,"('Anduva', 5759)",Miranda de Ebro,True,1
+DOM  23.11.2025,21:00,LALIGA HYPERMOTION,Málaga CF,3,CD Mirandés,2,"('La Rosaleda', 30044)",Málaga,False,5
+DOM  16.11.2025,18:30,LALIGA HYPERMOTION,CD Mirandés,0,Burgos CF,2,"('Anduva', 5759)",Miranda de Ebro,True,2
+VIE  07.11.2025,20:30,LALIGA HYPERMOTION,CD Mirandés,2,Real Sporting,1,"('Anduva', 5759)",Miranda de Ebro,True,3
+SÁB  01.11.2025,16:15,LALIGA HYPERMOTION,Cultural Leonesa,3,CD Mirandés,2,"('Reino de León', 13346)",León,False,5
+SÁB  25.10.2025,21:00,LALIGA HYPERMOTION,CD Mirandés,1,Racing de Santander,3,"('Anduva', 5759)",Miranda de Ebro,True,4
+SÁB  18.10.2025,16:15,LALIGA HYPERMOTION,AD Ceuta FC,2,CD Mirandés,0,"('Alfonso Murube', 6500)",Ceuta,False,2
+SÁB  11.10.2025,16:15,LALIGA HYPERMOTION,CD Mirandés,0,CD Leganés,0,"('Anduva', 5759)",Miranda de Ebro,True,0
+DOM  05.10.2025,18:30,LALIGA HYPERMOTION,Real Valladolid,1,CD Mirandés,1,"('José Zorrilla', 27618)",Valladolid,False,2
+VIE  26.09.2025,20:30,LALIGA HYPERMOTION,CD Mirandés,0,Real Zaragoza,1,"('Anduva', 5759)",Miranda de Ebro,True,1
+SÁB  20.09.2025,18:30,LALIGA HYPERMOTION,FC Andorra,1,CD Mirandés,1,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,False,2
+SÁB  13.09.2025,16:15,LALIGA HYPERMOTION,CD Mirandés,1,RC Deportivo,5,"('Anduva', 5759)",Miranda de Ebro,True,6
+VIE  05.09.2025,19:30,LALIGA HYPERMOTION,Albacete BP,1,CD Mirandés,4,"('Carlos Belmonte', 18000)",Albacete,False,5
+DOM  31.08.2025,21:30,LALIGA HYPERMOTION,Granada CF,1,CD Mirandés,2,"('Nuevo Los Cármenes', 19336)",Granada,False,3
+SÁB  23.08.2025,17:00,LALIGA HYPERMOTION,CD Mirandés,0,SD Huesca,1,"('Anduva', 5759)",Miranda de Ebro,True,1
+DOM  17.08.2025,19:30,LALIGA HYPERMOTION,Cádiz CF,1,CD Mirandés,0,"('Nuevo Mirandilla', 20724)",Cádiz,False,1
+SAB 24.01.2026,18:30,LALIGA HYPERMOTION,UD Las Palmas,1,Córdoba CF,2,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,False,3
+DOM 18.01.2026,21:00,LALIGA HYPERMOTION,Córdoba CF,0,Málaga CF,1,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,True,1
+LUN 12.01.2026,20:30,LALIGA HYPERMOTION,SD Huesca,1,Córdoba CF,2,"('El Alcoraz', 9128)",Huesca,False,3
+SAB 03.01.2026,21:00,LALIGA HYPERMOTION,Córdoba CF,2,Burgos CF,0,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,True,2
+DOM 21.12.2025,16:15,LALIGA HYPERMOTION,CD Mirandés,1,Córdoba CF,2,"('Anduva', 5759)",Miranda de Ebro,False,3
+SAB 13.12.2025,14:00,LALIGA HYPERMOTION,Córdoba CF,0,SD Eibar,0,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,True,0
+DOM 07.12.2025,16:15,LALIGA HYPERMOTION,CD Leganés,0,Córdoba CF,0,"('Ontime Butarque', 13089)",Leganés,False,0
+DOM 30.11.2025,18:30,LALIGA HYPERMOTION,Córdoba CF,1,Cádiz CF,2,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,True,3
+SAB 22.11.2025,21:00,LALIGA HYPERMOTION,Granada CF,1,Córdoba CF,1,"('Nuevo Los Cármenes', 19336)",Granada,False,2
+DOM 16.11.2025,18:30,LALIGA HYPERMOTION,Córdoba CF,1,RC Deportivo,3,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,True,4
+SAB 08.11.2025,21:00,LALIGA HYPERMOTION,Málaga CF,2,Córdoba CF,2,"('La Rosaleda', 30044)",Málaga,False,4
+DOM 02.11.2025,16:15,LALIGA HYPERMOTION,Córdoba CF,2,AD Ceuta FC,0,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,True,2
+SAB 25.10.2025,16:15,LALIGA HYPERMOTION,Albacete BP,1,Córdoba CF,3,"('Carlos Belmonte', 18000)",Albacete,False,4
+DOM 19.10.2025,18:30,LALIGA HYPERMOTION,Córdoba CF,1,UD Almería,1,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,True,2
+LUN 13.10.2025,20:30,LALIGA HYPERMOTION,Córdoba CF,1,Cultural Leonesa,0,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,True,1
+DOM 05.10.2025,14:00,LALIGA HYPERMOTION,Real Zaragoza,0,Córdoba CF,1,"('Ibercaja Estadio', 20103)",Zaragoza,False,1
+DOM 28.09.2025,14:00,LALIGA HYPERMOTION,Real Sociedad B,1,Córdoba CF,1,"('Estadio Zubieta', 2500)",San Sebastián,False,2
+DOM 21.09.2025,21:00,LALIGA HYPERMOTION,Córdoba CF,2,Racing de Santander,2,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,True,4
+DOM 14.09.2025,14:00,LALIGA HYPERMOTION,FC Andorra,3,Córdoba CF,1,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,False,4
+VIE 05.09.2025,21:30,LALIGA HYPERMOTION,Córdoba CF,2,CD Castellón,1,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,True,3
+SAB 30.08.2025,19:00,LALIGA HYPERMOTION,Real Valladolid,0,Córdoba CF,0,"('José Zorrilla', 27618)",Valladolid,False,0
+LUN 25.08.2025,21:30,LALIGA HYPERMOTION,Córdoba CF,1,UD Las Palmas,3,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,True,4
+LUN 18.08.2025,19:00,LALIGA HYPERMOTION,Real Sporting,2,Córdoba CF,1,"('El Molinón', 30000)",Gijón,False,3
+LUN 26.01.2026,20:30,LALIGA HYPERMOTION,AD Ceuta FC,3,Cultural Leonesa,1,"('Alfonso Murube', 6500)",Ceuta,False,4
+SAB 17.01.2026,16:15,LALIGA HYPERMOTION,Cultural Leonesa,2,Real Sporting,4,"('Reino de León', 13346)",León,True,6
+SAB 10.01.2026,18:30,LALIGA HYPERMOTION,FC Andorra,1,Cultural Leonesa,1,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,False,2
+SAB 03.01.2026,14:00,LALIGA HYPERMOTION,Cultural Leonesa,1,Real Sociedad B,1,"('Reino de León', 13346)",León,True,2
+SAB 20.12.2025,21:00,LALIGA HYPERMOTION,UD Las Palmas,4,Cultural Leonesa,0,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,False,4
+VIE 12.12.2025,20:30,LALIGA HYPERMOTION,Cultural Leonesa,0,SD Huesca,2,"('Reino de León', 13346)",León,True,2
+DOM 07.12.2025,18:30,LALIGA HYPERMOTION,SD Eibar,1,Cultural Leonesa,2,"('Ipurúa', 8164)",Éibar,False,3
+SAB 29.11.2025,16:15,LALIGA HYPERMOTION,Cultural Leonesa,0,Granada CF,1,"('Reino de León', 13346)",León,True,1
+DOM 23.11.2025,16:15,LALIGA HYPERMOTION,Cádiz CF,1,Cultural Leonesa,2,"('Nuevo Mirandilla', 20724)",Cádiz,False,3
+LUN 17.11.2025,20:30,LALIGA HYPERMOTION,Cultural Leonesa,1,Málaga CF,0,"('Reino de León', 13346)",León,True,1
+SAB 08.11.2025,18:30,LALIGA HYPERMOTION,RC Deportivo,3,Cultural Leonesa,0,"('Abanca-Riazor', 32490)",La Coruña,False,3
+SAB 01.11.2025,16:15,LALIGA HYPERMOTION,Cultural Leonesa,3,CD Mirandés,2,"('Reino de León', 13346)",León,True,5
+SAB 25.10.2025,14:00,LALIGA HYPERMOTION,Cultural Leonesa,0,AD Ceuta FC,1,"('Reino de León', 13346)",León,True,1
+SAB 18.10.2025,18:30,LALIGA HYPERMOTION,Real Zaragoza,0,Cultural Leonesa,5,"('Ibercaja Estadio', 20103)",Zaragoza,False,5
+LUN 13.10.2025,20:30,LALIGA HYPERMOTION,Córdoba CF,1,Cultural Leonesa,0,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,False,1
+LUN 06.10.2025,20:30,LALIGA HYPERMOTION,Cultural Leonesa,0,Albacete BP,0,"('Reino de León', 13346)",León,True,0
+DOM 28.09.2025,18:30,LALIGA HYPERMOTION,Real Valladolid,0,Cultural Leonesa,1,"('José Zorrilla', 27618)",Valladolid,False,1
+SAB 20.09.2025,16:15,LALIGA HYPERMOTION,Cultural Leonesa,1,CD Castellón,3,"('Reino de León', 13346)",León,True,4
+DOM 14.09.2025,16:15,LALIGA HYPERMOTION,Racing de Santander,2,Cultural Leonesa,4,"('El Sardinero', 21514)",Santander,False,6
+DOM 07.09.2025,18:30,LALIGA HYPERMOTION,Cultural Leonesa,0,CD Leganés,0,"('Reino de León', 13346)",León,True,0
+VIE 29.08.2025,21:30,LALIGA HYPERMOTION,Real Sporting,1,Cultural Leonesa,0,"('El Molinón', 30000)",Gijón,False,1
+DOM 24.08.2025,19:30,LALIGA HYPERMOTION,Cultural Leonesa,0,UD Almería,1,"('Reino de León', 13346)",León,True,1
+VIE 15.08.2025,21:30,LALIGA HYPERMOTION,Burgos CF,5,Cultural Leonesa,1,"('El Plantío', 12194)",Burgos,False,6
+DOM 25.01.2026,14:00,LALIGA HYPERMOTION,FC Andorra,1,SD Huesca,1,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,True,2
+DOM 18.01.2026,14:00,LALIGA HYPERMOTION,CD Mirandés,1,FC Andorra,2,"('Anduva', 5759)",Miranda de Ebro,False,3
+SAB 10.01.2026,18:30,LALIGA HYPERMOTION,FC Andorra,1,Cultural Leonesa,1,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,True,2
+DOM 04.01.2026,16:15,LALIGA HYPERMOTION,AD Ceuta FC,2,FC Andorra,1,"('Alfonso Murube', 6500)",Ceuta,False,3
+SAB 20.12.2025,14:00,LALIGA HYPERMOTION,FC Andorra,1,RC Deportivo,0,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,True,1
+SAB 13.12.2025,16:15,LALIGA HYPERMOTION,Real Valladolid,0,FC Andorra,1,"('José Zorrilla', 27618)",Valladolid,False,1
+SAB 06.12.2025,14:00,LALIGA HYPERMOTION,FC Andorra,1,UD Almería,2,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,True,3
+VIE 28.11.2025,20:30,LALIGA HYPERMOTION,Real Sporting,1,FC Andorra,1,"('El Molinón', 30000)",Gijón,False,2
+SAB 22.11.2025,16:15,LALIGA HYPERMOTION,FC Andorra,1,CD Castellón,3,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,True,4
+SAB 15.11.2025,16:00,LALIGA HYPERMOTION,Albacete BP,1,FC Andorra,0,"('Carlos Belmonte', 18000)",Albacete,False,1
+SAB 08.11.2025,16:15,LALIGA HYPERMOTION,SD Huesca,2,FC Andorra,2,"('El Alcoraz', 9128)",Huesca,False,4
+DOM 02.11.2025,14:00,LALIGA HYPERMOTION,FC Andorra,0,Cádiz CF,0,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,True,0
+DOM 26.10.2025,14:00,LALIGA HYPERMOTION,Málaga CF,4,FC Andorra,1,"('La Rosaleda', 30044)",Málaga,False,5
+VIE 17.10.2025,20:30,LALIGA HYPERMOTION,FC Andorra,0,Granada CF,0,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,True,0
+SAB 11.10.2025,18:30,LALIGA HYPERMOTION,Real Sociedad B,3,FC Andorra,0,"('Estadio Zubieta', 2500)",San Sebastián,False,3
+SAB 04.10.2025,18:30,LALIGA HYPERMOTION,FC Andorra,1,CD Leganés,2,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,True,3
+SAB 27.09.2025,18:30,LALIGA HYPERMOTION,Racing de Santander,1,FC Andorra,2,"('El Sardinero', 21514)",Santander,False,3
+SAB 20.09.2025,18:30,LALIGA HYPERMOTION,FC Andorra,1,CD Mirandés,1,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,True,2
+DOM 14.09.2025,14:00,LALIGA HYPERMOTION,FC Andorra,3,Córdoba CF,1,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,True,4
+LUN 08.09.2025,20:30,LALIGA HYPERMOTION,SD Eibar,2,FC Andorra,0,"('Ipurúa', 8164)",Éibar,False,2
+DOM 31.08.2025,17:00,LALIGA HYPERMOTION,FC Andorra,2,Burgos CF,1,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,True,3
+SAB 23.08.2025,21:30,LALIGA HYPERMOTION,Real Zaragoza,1,FC Andorra,3,"('Ibercaja Estadio', 20103)",Zaragoza,False,4
+DOM 17.08.2025,21:30,LALIGA HYPERMOTION,UD Las Palmas,1,FC Andorra,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,False,2
+SAB 24.01.2026,21:00,LALIGA HYPERMOTION,Cádiz CF,1,Granada CF,2,"('Nuevo Mirandilla', 20724)",Cádiz,False,3
+LUN 19.01.2026,20:30,LALIGA HYPERMOTION,Granada CF,0,SD Eibar,0,"('Nuevo Los Cármenes', 19336)",Granada,True,0
+DOM 11.01.2026,16:15,LALIGA HYPERMOTION,Granada CF,0,CD Castellón,0,"('Nuevo Los Cármenes', 19336)",Granada,True,0
+SAB 03.01.2026,16:15,LALIGA HYPERMOTION,UD Almería,3,Granada CF,2,"('UD Almería Stadium', 18331)",Almería,False,5
+DOM 21.12.2025,18:30,LALIGA HYPERMOTION,Granada CF,1,Albacete BP,1,"('Nuevo Los Cármenes', 19336)",Granada,True,2
+SAB 13.12.2025,16:15,LALIGA HYPERMOTION,Real Sporting,1,Granada CF,0,"('El Molinón', 30000)",Gijón,False,1
+DOM 07.12.2025,21:00,LALIGA HYPERMOTION,Granada CF,1,AD Ceuta FC,1,"('Nuevo Los Cármenes', 19336)",Granada,True,2
+SAB 29.11.2025,16:15,LALIGA HYPERMOTION,Cultural Leonesa,0,Granada CF,1,"('Reino de León', 13346)",León,False,1
+SAB 22.11.2025,21:00,LALIGA HYPERMOTION,Granada CF,1,Córdoba CF,1,"('Nuevo Los Cármenes', 19336)",Granada,True,2
+SAB 15.11.2025,21:00,LALIGA HYPERMOTION,Racing de Santander,2,Granada CF,2,"('El Sardinero', 21514)",Santander,False,4
+DOM 09.11.2025,18:30,LALIGA HYPERMOTION,Granada CF,3,Real Zaragoza,1,"('Nuevo Los Cármenes', 19336)",Granada,True,4
+LUN 03.11.2025,20:30,LALIGA HYPERMOTION,Real Valladolid,2,Granada CF,1,"('José Zorrilla', 27618)",Valladolid,False,3
+SAB 25.10.2025,18:30,LALIGA HYPERMOTION,Granada CF,0,Cádiz CF,0,"('Nuevo Los Cármenes', 19336)",Granada,True,0
+VIE 17.10.2025,20:30,LALIGA HYPERMOTION,FC Andorra,0,Granada CF,0,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,False,0
+VIE 10.10.2025,20:30,LALIGA HYPERMOTION,Granada CF,0,UD Las Palmas,0,"('Nuevo Los Cármenes', 19336)",Granada,True,0
+SAB 04.10.2025,21:00,LALIGA HYPERMOTION,Granada CF,5,Real Sociedad B,2,"('Nuevo Los Cármenes', 19336)",Granada,True,7
+DOM 28.09.2025,21:00,LALIGA HYPERMOTION,SD Huesca,0,Granada CF,1,"('El Alcoraz', 9128)",Huesca,False,1
+LUN 22.09.2025,20:30,LALIGA HYPERMOTION,Burgos CF,1,Granada CF,1,"('El Plantío', 12194)",Burgos,False,2
+DOM 14.09.2025,21:00,LALIGA HYPERMOTION,Granada CF,0,CD Leganés,2,"('Nuevo Los Cármenes', 19336)",Granada,True,2
+SAB 06.09.2025,21:00,LALIGA HYPERMOTION,Málaga CF,2,Granada CF,2,"('La Rosaleda', 30044)",Málaga,False,4
+DOM 31.08.2025,21:30,LALIGA HYPERMOTION,Granada CF,1,CD Mirandés,2,"('Nuevo Los Cármenes', 19336)",Granada,True,3
+VIE 22.08.2025,19:30,LALIGA HYPERMOTION,SD Eibar,3,Granada CF,0,"('Ipurúa', 8164)",Éibar,False,3
+SAB 16.08.2025,21:30,LALIGA HYPERMOTION,Granada CF,1,RC Deportivo,3,"('Nuevo Los Cármenes', 19336)",Granada,True,4
+VIE 23.01.2026,20:30,LALIGA HYPERMOTION,Málaga CF,3,Burgos CF,0,"('La Rosaleda', 30044)",Málaga,True,3
+DOM 18.01.2026,21:00,LALIGA HYPERMOTION,Córdoba CF,0,Málaga CF,1,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,False,1
+DOM 11.01.2026,16:15,LALIGA HYPERMOTION,Málaga CF,2,AD Ceuta FC,1,"('La Rosaleda', 30044)",Málaga,True,3
+DOM 04.01.2026,14:00,LALIGA HYPERMOTION,Real Sporting,1,Málaga CF,3,"('El Molinón', 30000)",Gijón,False,4
+DOM 21.12.2025,14:00,LALIGA HYPERMOTION,Málaga CF,2,UD Almería,1,"('La Rosaleda', 30044)",Málaga,True,3
+DOM 14.12.2025,16:15,LALIGA HYPERMOTION,Albacete BP,1,Málaga CF,3,"('Carlos Belmonte', 18000)",Albacete,False,4
+LUN 08.12.2025,20:30,LALIGA HYPERMOTION,Málaga CF,1,Real Zaragoza,1,"('La Rosaleda', 30044)",Málaga,True,2
+SAB 29.11.2025,21:00,LALIGA HYPERMOTION,Real Valladolid,1,Málaga CF,1,"('José Zorrilla', 27618)",Valladolid,False,2
+DOM 23.11.2025,21:00,LALIGA HYPERMOTION,Málaga CF,3,CD Mirandés,2,"('La Rosaleda', 30044)",Málaga,True,5
+LUN 17.11.2025,20:30,LALIGA HYPERMOTION,Cultural Leonesa,1,Málaga CF,0,"('Reino de León', 13346)",León,False,1
+SAB 08.11.2025,21:00,LALIGA HYPERMOTION,Málaga CF,2,Córdoba CF,2,"('La Rosaleda', 30044)",Málaga,True,4
+DOM 02.11.2025,18:30,LALIGA HYPERMOTION,CD Castellón,2,Málaga CF,1,"('Skyfi Castalia', 15500)",Castellón de la Plana,False,3
+DOM 26.10.2025,14:00,LALIGA HYPERMOTION,Málaga CF,4,FC Andorra,1,"('La Rosaleda', 30044)",Málaga,True,5
+DOM 19.10.2025,14:00,LALIGA HYPERMOTION,CD Leganés,2,Málaga CF,0,"('Ontime Butarque', 13089)",Leganés,False,2
+DOM 12.10.2025,21:00,LALIGA HYPERMOTION,Málaga CF,3,RC Deportivo,0,"('La Rosaleda', 30044)",Málaga,True,3
+DOM 05.10.2025,18:30,LALIGA HYPERMOTION,Racing de Santander,3,Málaga CF,0,"('El Sardinero', 21514)",Santander,False,3
+DOM 28.09.2025,16:15,LALIGA HYPERMOTION,Burgos CF,2,Málaga CF,1,"('El Plantío', 12194)",Burgos,False,3
+DOM 21.09.2025,18:30,LALIGA HYPERMOTION,Málaga CF,0,Cádiz CF,1,"('La Rosaleda', 30044)",Málaga,True,1
+SAB 13.09.2025,18:30,LALIGA HYPERMOTION,SD Huesca,1,Málaga CF,0,"('El Alcoraz', 9128)",Huesca,False,1
+SAB 06.09.2025,21:00,LALIGA HYPERMOTION,Málaga CF,2,Granada CF,2,"('La Rosaleda', 30044)",Málaga,True,4
+DOM 31.08.2025,19:30,LALIGA HYPERMOTION,UD Las Palmas,0,Málaga CF,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,False,1
+DOM 24.08.2025,21:30,LALIGA HYPERMOTION,Málaga CF,1,Real Sociedad B,0,"('La Rosaleda', 30044)",Málaga,True,1
+SAB 16.08.2025,19:30,LALIGA HYPERMOTION,Málaga CF,1,SD Eibar,1,"('La Rosaleda', 30044)",Málaga,True,2
+DOM 25.01.2026,21:00,LALIGA HYPERMOTION,RC Deportivo,0,Racing de Santander,1,"('Abanca-Riazor', 32490)",La Coruña,False,1
+DOM 18.01.2026,16:15,LALIGA HYPERMOTION,Racing de Santander,4,UD Las Palmas,1,"('El Sardinero', 21514)",Santander,True,5
+SAB 10.01.2026,21:00,LALIGA HYPERMOTION,Racing de Santander,2,Real Zaragoza,3,"('El Sardinero', 21514)",Santander,True,5
+SAB 03.01.2026,18:30,LALIGA HYPERMOTION,Real Valladolid,1,Racing de Santander,1,"('José Zorrilla', 27618)",Valladolid,False,2
+SAB 20.12.2025,16:15,LALIGA HYPERMOTION,SD Huesca,1,Racing de Santander,1,"('El Alcoraz', 9128)",Huesca,False,2
+SAB 13.12.2025,18:30,LALIGA HYPERMOTION,Racing de Santander,1,CD Leganés,1,"('El Sardinero', 21514)",Santander,True,2
+DOM 07.12.2025,14:00,LALIGA HYPERMOTION,Cádiz CF,2,Racing de Santander,3,"('Nuevo Mirandilla', 20724)",Cádiz,False,5
+DOM 30.11.2025,16:15,LALIGA HYPERMOTION,Racing de Santander,4,SD Eibar,0,"('El Sardinero', 21514)",Santander,True,4
+DOM 23.11.2025,18:30,LALIGA HYPERMOTION,Burgos CF,0,Racing de Santander,2,"('El Plantío', 12194)",Burgos,False,2
+SAB 15.11.2025,21:00,LALIGA HYPERMOTION,Racing de Santander,2,Granada CF,2,"('El Sardinero', 21514)",Santander,True,4
+DOM 09.11.2025,14:00,LALIGA HYPERMOTION,UD Las Palmas,3,Racing de Santander,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,False,4
+VIE 31.10.2025,20:30,LALIGA HYPERMOTION,Racing de Santander,1,Real Sociedad B,0,"('El Sardinero', 21514)",Santander,True,1
+SAB 25.10.2025,21:00,LALIGA HYPERMOTION,CD Mirandés,1,Racing de Santander,3,"('Anduva', 5759)",Miranda de Ebro,False,4
+DOM 19.10.2025,18:30,LALIGA HYPERMOTION,Racing de Santander,2,RC Deportivo,1,"('El Sardinero', 21514)",Santander,True,3
+DOM 12.10.2025,16:15,LALIGA HYPERMOTION,Real Sporting,2,Racing de Santander,1,"('El Molinón', 30000)",Gijón,False,3
+DOM 05.10.2025,18:30,LALIGA HYPERMOTION,Racing de Santander,3,Málaga CF,0,"('El Sardinero', 21514)",Santander,True,3
+SAB 27.09.2025,18:30,LALIGA HYPERMOTION,Racing de Santander,1,FC Andorra,2,"('El Sardinero', 21514)",Santander,True,3
+DOM 21.09.2025,21:00,LALIGA HYPERMOTION,Córdoba CF,2,Racing de Santander,2,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,False,4
+DOM 14.09.2025,16:15,LALIGA HYPERMOTION,Racing de Santander,2,Cultural Leonesa,4,"('El Sardinero', 21514)",Santander,True,6
+DOM 07.09.2025,18:30,LALIGA HYPERMOTION,UD Almería,2,Racing de Santander,3,"('UD Almería Stadium', 18331)",Almería,False,5
+SAB 30.08.2025,17:00,LALIGA HYPERMOTION,Racing de Santander,4,AD Ceuta FC,1,"('El Sardinero', 21514)",Santander,True,5
+LUN 25.08.2025,19:30,LALIGA HYPERMOTION,Albacete BP,2,Racing de Santander,3,"('Carlos Belmonte', 18000)",Albacete,False,5
+SAB 16.08.2025,17:00,LALIGA HYPERMOTION,Racing de Santander,3,CD Castellón,1,"('El Sardinero', 21514)",Santander,True,4
+SAB 24.01.2026,16:15,LALIGA HYPERMOTION,CD Leganés,2,Real Sociedad B,0,"('Ontime Butarque', 13089)",Leganés,False,2
+SAB 17.01.2026,18:30,LALIGA HYPERMOTION,Real Zaragoza,1,Real Sociedad B,1,"('Ibercaja Estadio', 20103)",Zaragoza,False,2
+SAB 10.01.2026,16:15,LALIGA HYPERMOTION,Real Sociedad B,0,Albacete BP,0,"('Estadio Zubieta', 2500)",San Sebastián,True,0
+SAB 03.01.2026,14:00,LALIGA HYPERMOTION,Cultural Leonesa,1,Real Sociedad B,1,"('Reino de León', 13346)",León,False,2
+DOM 21.12.2025,16:15,LALIGA HYPERMOTION,Real Sociedad B,1,AD Ceuta FC,3,"('Estadio Zubieta', 2500)",San Sebastián,True,4
+SAB 13.12.2025,21:00,LALIGA HYPERMOTION,RC Deportivo,0,Real Sociedad B,3,"('Abanca-Riazor', 32490)",La Coruña,False,3
+SAB 06.12.2025,18:30,LALIGA HYPERMOTION,Real Sociedad B,0,Real Sporting,1,"('Estadio Zubieta', 2500)",San Sebastián,True,1
+DOM 30.11.2025,18:30,LALIGA HYPERMOTION,CD Mirandés,1,Real Sociedad B,0,"('Anduva', 5759)",Miranda de Ebro,False,1
+LUN 24.11.2025,20:30,LALIGA HYPERMOTION,Real Sociedad B,1,Real Valladolid,0,"('Estadio Zubieta', 2500)",San Sebastián,True,1
+SAB 15.11.2025,16:00,LALIGA HYPERMOTION,CD Castellón,5,Real Sociedad B,4,"('Skyfi Castalia', 15500)",Castellón de la Plana,False,9
+SAB 08.11.2025,14:00,LALIGA HYPERMOTION,Real Sociedad B,2,CD Leganés,1,"('Estadio Zubieta', 2500)",San Sebastián,True,3
+MIE 05.11.2025,20:00,LALIGA HYPERMOTION,Real Sociedad B,2,SD Huesca,0,"('Estadio Zubieta', 2500)",San Sebastián,True,2
+VIE 31.10.2025,20:30,LALIGA HYPERMOTION,Racing de Santander,1,Real Sociedad B,0,"('El Sardinero', 21514)",Santander,False,1
+SAB 25.10.2025,18:30,LALIGA HYPERMOTION,Burgos CF,1,Real Sociedad B,0,"('El Plantío', 12194)",Burgos,False,1
+SAB 11.10.2025,18:30,LALIGA HYPERMOTION,Real Sociedad B,3,FC Andorra,0,"('Estadio Zubieta', 2500)",San Sebastián,True,3
+SAB 04.10.2025,21:00,LALIGA HYPERMOTION,Granada CF,5,Real Sociedad B,2,"('Nuevo Los Cármenes', 19336)",Granada,False,7
+DOM 28.09.2025,14:00,LALIGA HYPERMOTION,Real Sociedad B,1,Córdoba CF,1,"('Estadio Zubieta', 2500)",San Sebastián,True,2
+DOM 21.09.2025,18:30,LALIGA HYPERMOTION,SD Eibar,2,Real Sociedad B,1,"('Ipurúa', 8164)",Éibar,False,3
+VIE 12.09.2025,20:30,LALIGA HYPERMOTION,UD Las Palmas,2,Real Sociedad B,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,False,3
+DOM 07.09.2025,16:15,LALIGA HYPERMOTION,Real Sociedad B,3,Cádiz CF,3,"('Estadio Zubieta', 2500)",San Sebastián,True,6
+VIE 29.08.2025,19:30,LALIGA HYPERMOTION,Real Sociedad B,2,UD Almería,2,"('Estadio Zubieta', 2500)",San Sebastián,True,4
+DOM 24.08.2025,21:30,LALIGA HYPERMOTION,Málaga CF,1,Real Sociedad B,0,"('La Rosaleda', 30044)",Málaga,False,1
+DOM 17.08.2025,17:00,LALIGA HYPERMOTION,Real Sociedad B,1,Real Zaragoza,0,"('Estadio Zubieta', 2500)",San Sebastián,True,1
+DOM 25.01.2026,21:00,LALIGA HYPERMOTION,RC Deportivo,0,Racing de Santander,1,"('Abanca-Riazor', 32490)",La Coruña,True,1
+SAB 17.01.2026,21:00,LALIGA HYPERMOTION,UD Almería,1,RC Deportivo,2,"('UD Almería Stadium', 18331)",Almería,False,3
+SAB 10.01.2026,18:30,LALIGA HYPERMOTION,UD Las Palmas,1,RC Deportivo,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,False,2
+DOM 04.01.2026,21:00,LALIGA HYPERMOTION,RC Deportivo,2,Cádiz CF,2,"('Abanca-Riazor', 32490)",La Coruña,True,4
+SAB 20.12.2025,14:00,LALIGA HYPERMOTION,FC Andorra,1,RC Deportivo,0,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,False,1
+SAB 13.12.2025,21:00,LALIGA HYPERMOTION,RC Deportivo,0,Real Sociedad B,3,"('Abanca-Riazor', 32490)",La Coruña,True,3
+DOM 07.12.2025,18:30,LALIGA HYPERMOTION,RC Deportivo,1,CD Castellón,3,"('Abanca-Riazor', 32490)",La Coruña,True,4
+SAB 29.11.2025,18:30,LALIGA HYPERMOTION,Albacete BP,0,RC Deportivo,2,"('Carlos Belmonte', 18000)",Albacete,False,2
+DOM 23.11.2025,14:00,LALIGA HYPERMOTION,RC Deportivo,2,AD Ceuta FC,1,"('Abanca-Riazor', 32490)",La Coruña,True,3
+DOM 16.11.2025,18:30,LALIGA HYPERMOTION,Córdoba CF,1,RC Deportivo,3,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,False,4
+SAB 08.11.2025,18:30,LALIGA HYPERMOTION,RC Deportivo,3,Cultural Leonesa,0,"('Abanca-Riazor', 32490)",La Coruña,True,3
+DOM 02.11.2025,21:00,LALIGA HYPERMOTION,Real Zaragoza,0,RC Deportivo,2,"('Ibercaja Estadio', 20103)",Zaragoza,False,2
+DOM 26.10.2025,21:00,LALIGA HYPERMOTION,RC Deportivo,1,Real Valladolid,1,"('Abanca-Riazor', 32490)",La Coruña,True,2
+DOM 19.10.2025,18:30,LALIGA HYPERMOTION,Racing de Santander,2,RC Deportivo,1,"('El Sardinero', 21514)",Santander,False,3
+DOM 12.10.2025,21:00,LALIGA HYPERMOTION,Málaga CF,3,RC Deportivo,0,"('La Rosaleda', 30044)",Málaga,False,3
+SAB 04.10.2025,16:15,LALIGA HYPERMOTION,RC Deportivo,1,UD Almería,1,"('Abanca-Riazor', 32490)",La Coruña,True,2
+SAB 27.09.2025,18:30,LALIGA HYPERMOTION,SD Eibar,1,RC Deportivo,1,"('Ipurúa', 8164)",Éibar,False,2
+VIE 19.09.2025,20:30,LALIGA HYPERMOTION,RC Deportivo,4,SD Huesca,0,"('Abanca-Riazor', 32490)",La Coruña,True,4
+SAB 13.09.2025,16:15,LALIGA HYPERMOTION,CD Mirandés,1,RC Deportivo,5,"('Anduva', 5759)",Miranda de Ebro,False,6
+SAB 06.09.2025,16:15,LALIGA HYPERMOTION,RC Deportivo,1,Real Sporting,0,"('Abanca-Riazor', 32490)",La Coruña,True,1
+LUN 01.09.2025,21:30,LALIGA HYPERMOTION,CD Leganés,2,RC Deportivo,2,"('Ontime Butarque', 13089)",Leganés,False,4
+DOM 24.08.2025,17:00,LALIGA HYPERMOTION,RC Deportivo,0,Burgos CF,0,"('Abanca-Riazor', 32490)",La Coruña,True,0
+SAB 16.08.2025,21:30,LALIGA HYPERMOTION,Granada CF,1,RC Deportivo,3,"('Nuevo Los Cármenes', 19336)",Granada,False,4
+SÁB  24.01.2026,18:30,LALIGA HYPERMOTION,Real Sporting,3,CD Mirandés,0,"('El Molinón', 30000)",Gijón,True,3
+SÁB  17.01.2026,16:15,LALIGA HYPERMOTION,Cultural Leonesa,2,Real Sporting,4,"('Reino de León', 13346)",León,False,6
+VIE  09.01.2026,20:30,LALIGA HYPERMOTION,Cádiz CF,3,Real Sporting,2,"('Nuevo Mirandilla', 20724)",Cádiz,False,5
+DOM  04.01.2026,14:00,LALIGA HYPERMOTION,Real Sporting,1,Málaga CF,3,"('El Molinón', 30000)",Gijón,True,4
+SÁB  20.12.2025,18:30,LALIGA HYPERMOTION,CD Leganés,0,Real Sporting,1,"('Ontime Butarque', 13089)",Leganés,False,1
+SÁB  13.12.2025,16:15,LALIGA HYPERMOTION,Real Sporting,1,Granada CF,0,"('El Molinón', 30000)",Gijón,True,1
+SÁB  06.12.2025,18:30,LALIGA HYPERMOTION,Real Sociedad B,0,Real Sporting,1,"('Estadio Zubieta', 2500)",San Sebastián,False,1
+VIE  28.11.2025,20:30,LALIGA HYPERMOTION,Real Sporting,1,FC Andorra,1,"('El Molinón', 30000)",Gijón,True,2
+DOM  23.11.2025,16:15,LALIGA HYPERMOTION,SD Huesca,2,Real Sporting,0,"('El Alcoraz', 9128)",Huesca,False,2
+DOM  16.11.2025,16:15,LALIGA HYPERMOTION,Real Sporting,1,SD Eibar,1,"('El Molinón', 30000)",Gijón,True,2
+VIE  07.11.2025,20:30,LALIGA HYPERMOTION,CD Mirandés,2,Real Sporting,1,"('Anduva', 5759)",Miranda de Ebro,False,3
+DOM  02.11.2025,16:15,LALIGA HYPERMOTION,Real Sporting,0,UD Las Palmas,0,"('El Molinón', 30000)",Gijón,True,0
+DOM  26.10.2025,18:30,LALIGA HYPERMOTION,Real Sporting,1,Real Zaragoza,0,"('El Molinón', 30000)",Gijón,True,1
+DOM  19.10.2025,16:15,LALIGA HYPERMOTION,Real Valladolid,2,Real Sporting,3,"('José Zorrilla', 27618)",Valladolid,False,5
+DOM  12.10.2025,16:15,LALIGA HYPERMOTION,Real Sporting,2,Racing de Santander,1,"('El Molinón', 30000)",Gijón,True,3
+DOM  05.10.2025,16:15,LALIGA HYPERMOTION,CD Castellón,3,Real Sporting,1,"('Skyfi Castalia', 15500)",Castellón de la Plana,False,4
+DOM  28.09.2025,18:30,LALIGA HYPERMOTION,Real Sporting,3,Albacete BP,4,"('El Molinón', 30000)",Gijón,True,7
+SÁB  20.09.2025,21:00,LALIGA HYPERMOTION,UD Almería,2,Real Sporting,1,"('UD Almería Stadium', 18331)",Almería,False,3
+DOM  14.09.2025,18:30,LALIGA HYPERMOTION,Real Sporting,2,Burgos CF,3,"('El Molinón', 30000)",Gijón,True,5
+SÁB  06.09.2025,16:15,LALIGA HYPERMOTION,RC Deportivo,1,Real Sporting,0,"('Abanca-Riazor', 32490)",La Coruña,False,1
+VIE  29.08.2025,21:30,LALIGA HYPERMOTION,Real Sporting,1,Cultural Leonesa,0,"('El Molinón', 30000)",Gijón,True,1
+SÁB  23.08.2025,19:00,LALIGA HYPERMOTION,AD Ceuta FC,0,Real Sporting,1,"('Alfonso Murube', 6500)",Ceuta,False,1
+LUN  18.08.2025,19:00,LALIGA HYPERMOTION,Real Sporting,2,Córdoba CF,1,"('El Molinón', 30000)",Gijón,True,3
+SAB 24.01.2026,14:00,LALIGA HYPERMOTION,Real Valladolid,0,Albacete BP,1,"('José Zorrilla', 27618)",Valladolid,True,1
+SAB 17.01.2026,14:00,LALIGA HYPERMOTION,AD Ceuta FC,0,Real Valladolid,3,"('Alfonso Murube', 6500)",Ceuta,False,3
+DOM 11.01.2026,14:00,LALIGA HYPERMOTION,CD Leganés,3,Real Valladolid,0,"('Ontime Butarque', 13089)",Leganés,False,3
+SAB 03.01.2026,18:30,LALIGA HYPERMOTION,Real Valladolid,1,Racing de Santander,1,"('José Zorrilla', 27618)",Valladolid,True,2
+VIE 19.12.2025,20:30,LALIGA HYPERMOTION,SD Eibar,3,Real Valladolid,0,"('Ipurúa', 8164)",Éibar,False,3
+SAB 13.12.2025,16:15,LALIGA HYPERMOTION,Real Valladolid,0,FC Andorra,1,"('José Zorrilla', 27618)",Valladolid,True,1
+SAB 06.12.2025,16:15,LALIGA HYPERMOTION,SD Huesca,1,Real Valladolid,4,"('El Alcoraz', 9128)",Huesca,False,5
+SAB 29.11.2025,21:00,LALIGA HYPERMOTION,Real Valladolid,1,Málaga CF,1,"('José Zorrilla', 27618)",Valladolid,True,2
+LUN 24.11.2025,20:30,LALIGA HYPERMOTION,Real Sociedad B,1,Real Valladolid,0,"('Estadio Zubieta', 2500)",San Sebastián,False,1
+VIE 14.11.2025,20:30,LALIGA HYPERMOTION,Real Valladolid,0,UD Las Palmas,1,"('José Zorrilla', 27618)",Valladolid,True,1
+DOM 09.11.2025,21:00,LALIGA HYPERMOTION,Cádiz CF,0,Real Valladolid,0,"('Nuevo Mirandilla', 20724)",Cádiz,False,0
+LUN 03.11.2025,20:30,LALIGA HYPERMOTION,Real Valladolid,2,Granada CF,1,"('José Zorrilla', 27618)",Valladolid,True,3
+DOM 26.10.2025,21:00,LALIGA HYPERMOTION,RC Deportivo,1,Real Valladolid,1,"('Abanca-Riazor', 32490)",La Coruña,False,2
+DOM 19.10.2025,16:15,LALIGA HYPERMOTION,Real Valladolid,2,Real Sporting,3,"('José Zorrilla', 27618)",Valladolid,True,5
+DOM 12.10.2025,18:30,LALIGA HYPERMOTION,Burgos CF,0,Real Valladolid,1,"('El Plantío', 12194)",Burgos,False,1
+DOM 05.10.2025,18:30,LALIGA HYPERMOTION,Real Valladolid,1,CD Mirandés,1,"('José Zorrilla', 27618)",Valladolid,True,2
+DOM 28.09.2025,18:30,LALIGA HYPERMOTION,Real Valladolid,0,Cultural Leonesa,1,"('José Zorrilla', 27618)",Valladolid,True,1
+DOM 21.09.2025,16:15,LALIGA HYPERMOTION,Albacete BP,2,Real Valladolid,0,"('Carlos Belmonte', 18000)",Albacete,False,2
+SAB 13.09.2025,21:00,LALIGA HYPERMOTION,Real Valladolid,3,UD Almería,1,"('José Zorrilla', 27618)",Valladolid,True,4
+SAB 06.09.2025,18:30,LALIGA HYPERMOTION,Real Zaragoza,1,Real Valladolid,1,"('Ibercaja Estadio', 20103)",Zaragoza,False,2
+SAB 30.08.2025,19:00,LALIGA HYPERMOTION,Real Valladolid,0,Córdoba CF,0,"('José Zorrilla', 27618)",Valladolid,True,0
+VIE 22.08.2025,21:30,LALIGA HYPERMOTION,CD Castellón,0,Real Valladolid,1,"('Skyfi Castalia', 15500)",Castellón de la Plana,False,1
+VIE 15.08.2025,21:30,LALIGA HYPERMOTION,Real Valladolid,3,AD Ceuta FC,0,"('José Zorrilla', 27618)",Valladolid,True,3
+DOM  25.01.2026,18:30,LALIGA HYPERMOTION,Real Zaragoza,0,CD Castellón,0,"('Ibercaja Estadio', 20103)",Zaragoza,True,0
+SÁB  17.01.2026,18:30,LALIGA HYPERMOTION,Real Zaragoza,1,Real Sociedad B,1,"('Ibercaja Estadio', 20103)",Zaragoza,True,2
+SÁB  10.01.2026,21:00,LALIGA HYPERMOTION,Racing de Santander,2,Real Zaragoza,3,"('El Sardinero', 21514)",Santander,False,5
+DOM  04.01.2026,18:30,LALIGA HYPERMOTION,Real Zaragoza,1,UD Las Palmas,2,"('Ibercaja Estadio', 20103)",Zaragoza,True,3
+DOM  21.12.2025,18:30,LALIGA HYPERMOTION,Burgos CF,1,Real Zaragoza,1,"('El Plantío', 12194)",Burgos,False,2
+SÁB  13.12.2025,21:00,LALIGA HYPERMOTION,Real Zaragoza,1,Cádiz CF,2,"('Ibercaja Estadio', 20103)",Zaragoza,True,3
+LUN  08.12.2025,20:30,LALIGA HYPERMOTION,Málaga CF,1,Real Zaragoza,1,"('La Rosaleda', 30044)",Málaga,False,2
+DOM  30.11.2025,14:00,LALIGA HYPERMOTION,Real Zaragoza,3,CD Leganés,2,"('Ibercaja Estadio', 20103)",Zaragoza,True,5
+SÁB  22.11.2025,18:30,LALIGA HYPERMOTION,SD Eibar,1,Real Zaragoza,2,"('Ipurúa', 8164)",Éibar,False,3
+DOM  16.11.2025,21:00,LALIGA HYPERMOTION,Real Zaragoza,1,SD Huesca,0,"('Ibercaja Estadio', 20103)",Zaragoza,True,1
+DOM  09.11.2025,18:30,LALIGA HYPERMOTION,Granada CF,3,Real Zaragoza,1,"('Nuevo Los Cármenes', 19336)",Granada,False,4
+DOM  02.11.2025,21:00,LALIGA HYPERMOTION,Real Zaragoza,0,RC Deportivo,2,"('Ibercaja Estadio', 20103)",Zaragoza,True,2
+DOM  26.10.2025,18:30,LALIGA HYPERMOTION,Real Sporting,1,Real Zaragoza,0,"('El Molinón', 30000)",Gijón,False,1
+SÁB  18.10.2025,18:30,LALIGA HYPERMOTION,Real Zaragoza,0,Cultural Leonesa,5,"('Ibercaja Estadio', 20103)",Zaragoza,True,5
+SÁB  11.10.2025,18:30,LALIGA HYPERMOTION,UD Almería,4,Real Zaragoza,2,"('UD Almería Stadium', 18331)",Almería,False,6
+DOM  05.10.2025,14:00,LALIGA HYPERMOTION,Real Zaragoza,0,Córdoba CF,1,"('Ibercaja Estadio', 20103)",Zaragoza,True,1
+VIE  26.09.2025,20:30,LALIGA HYPERMOTION,CD Mirandés,0,Real Zaragoza,1,"('Anduva', 5759)",Miranda de Ebro,False,1
+DOM  21.09.2025,14:00,LALIGA HYPERMOTION,AD Ceuta FC,1,Real Zaragoza,0,"('Alfonso Murube', 6500)",Ceuta,False,1
+LUN  15.09.2025,20:30,LALIGA HYPERMOTION,Real Zaragoza,0,Albacete BP,0,"('Ibercaja Estadio', 20103)",Zaragoza,True,0
+SÁB  06.09.2025,18:30,LALIGA HYPERMOTION,Real Zaragoza,1,Real Valladolid,1,"('Ibercaja Estadio', 20103)",Zaragoza,True,2
+SÁB  30.08.2025,21:30,LALIGA HYPERMOTION,CD Castellón,1,Real Zaragoza,1,"('Skyfi Castalia', 15500)",Castellón de la Plana,False,2
+SÁB  23.08.2025,21:30,LALIGA HYPERMOTION,Real Zaragoza,1,FC Andorra,3,"('Ibercaja Estadio', 20103)",Zaragoza,True,4
+DOM  17.08.2025,17:00,LALIGA HYPERMOTION,Real Sociedad B,1,Real Zaragoza,0,"('Estadio Zubieta', 2500)",San Sebastián,False,1
+DOM 25.01.2026,16:15,LALIGA HYPERMOTION,SD Eibar,1,UD Almería,0,"('Ipurúa', 8164)",Éibar,True,1
+LUN 19.01.2026,20:30,LALIGA HYPERMOTION,Granada CF,0,SD Eibar,0,"('Nuevo Los Cármenes', 19336)",Granada,False,0
+SAB 10.01.2026,18:30,LALIGA HYPERMOTION,Burgos CF,1,SD Eibar,0,"('El Plantío', 12194)",Burgos,False,1
+VIE 02.01.2026,20:30,LALIGA HYPERMOTION,SD Eibar,2,CD Mirandés,1,"('Ipurúa', 8164)",Éibar,True,3
+VIE 19.12.2025,20:30,LALIGA HYPERMOTION,SD Eibar,3,Real Valladolid,0,"('Ipurúa', 8164)",Éibar,True,3
+SAB 13.12.2025,14:00,LALIGA HYPERMOTION,Córdoba CF,0,SD Eibar,0,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,False,0
+DOM 07.12.2025,18:30,LALIGA HYPERMOTION,SD Eibar,1,Cultural Leonesa,2,"('Ipurúa', 8164)",Éibar,True,3
+DOM 30.11.2025,16:15,LALIGA HYPERMOTION,Racing de Santander,4,SD Eibar,0,"('El Sardinero', 21514)",Santander,False,4
+SAB 22.11.2025,18:30,LALIGA HYPERMOTION,SD Eibar,1,Real Zaragoza,2,"('Ipurúa', 8164)",Éibar,True,3
+DOM 16.11.2025,16:15,LALIGA HYPERMOTION,Real Sporting,1,SD Eibar,1,"('El Molinón', 30000)",Gijón,False,2
+SAB 08.11.2025,16:15,LALIGA HYPERMOTION,SD Eibar,3,Albacete BP,2,"('Ipurúa', 8164)",Éibar,True,5
+SAB 01.11.2025,21:00,LALIGA HYPERMOTION,UD Almería,3,SD Eibar,1,"('UD Almería Stadium', 18331)",Almería,False,4
+SAB 25.10.2025,16:15,LALIGA HYPERMOTION,SD Eibar,0,CD Leganés,0,"('Ipurúa', 8164)",Éibar,True,0
+DOM 19.10.2025,21:00,LALIGA HYPERMOTION,UD Las Palmas,3,SD Eibar,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,False,4
+DOM 12.10.2025,16:15,LALIGA HYPERMOTION,SD Eibar,0,CD Castellón,0,"('Ipurúa', 8164)",Éibar,True,0
+VIE 03.10.2025,20:30,LALIGA HYPERMOTION,AD Ceuta FC,1,SD Eibar,0,"('Alfonso Murube', 6500)",Ceuta,False,1
+SAB 27.09.2025,18:30,LALIGA HYPERMOTION,SD Eibar,1,RC Deportivo,1,"('Ipurúa', 8164)",Éibar,True,2
+DOM 21.09.2025,18:30,LALIGA HYPERMOTION,SD Eibar,2,Real Sociedad B,1,"('Ipurúa', 8164)",Éibar,True,3
+SAB 13.09.2025,16:15,LALIGA HYPERMOTION,Cádiz CF,1,SD Eibar,0,"('Nuevo Mirandilla', 20724)",Cádiz,False,1
+LUN 08.09.2025,20:30,LALIGA HYPERMOTION,SD Eibar,2,FC Andorra,0,"('Ipurúa', 8164)",Éibar,True,2
+LUN 01.09.2025,19:30,LALIGA HYPERMOTION,SD Huesca,2,SD Eibar,1,"('El Alcoraz', 9128)",Huesca,False,3
+VIE 22.08.2025,19:30,LALIGA HYPERMOTION,SD Eibar,3,Granada CF,0,"('Ipurúa', 8164)",Éibar,True,3
+SAB 16.08.2025,19:30,LALIGA HYPERMOTION,Málaga CF,1,SD Eibar,1,"('La Rosaleda', 30044)",Málaga,False,2
+DOM 25.01.2026,14:00,LALIGA HYPERMOTION,FC Andorra,1,SD Huesca,1,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,False,2
+DOM 18.01.2026,18:30,LALIGA HYPERMOTION,Burgos CF,1,SD Huesca,0,"('El Plantío', 12194)",Burgos,False,1
+LUN 12.01.2026,20:30,LALIGA HYPERMOTION,SD Huesca,1,Córdoba CF,2,"('El Alcoraz', 9128)",Huesca,True,3
+SAB 03.01.2026,16:15,LALIGA HYPERMOTION,CD Castellón,4,SD Huesca,1,"('Skyfi Castalia', 15500)",Castellón de la Plana,False,5
+SAB 20.12.2025,16:15,LALIGA HYPERMOTION,SD Huesca,1,Racing de Santander,1,"('El Alcoraz', 9128)",Huesca,True,2
+VIE 12.12.2025,20:30,LALIGA HYPERMOTION,Cultural Leonesa,0,SD Huesca,2,"('Reino de León', 13346)",León,False,2
+SAB 06.12.2025,16:15,LALIGA HYPERMOTION,SD Huesca,1,Real Valladolid,4,"('El Alcoraz', 9128)",Huesca,True,5
+SAB 29.11.2025,18:30,LALIGA HYPERMOTION,UD Almería,0,SD Huesca,0,"('UD Almería Stadium', 18331)",Almería,False,0
+DOM 23.11.2025,16:15,LALIGA HYPERMOTION,SD Huesca,2,Real Sporting,0,"('El Alcoraz', 9128)",Huesca,True,2
+DOM 16.11.2025,21:00,LALIGA HYPERMOTION,Real Zaragoza,1,SD Huesca,0,"('Ibercaja Estadio', 20103)",Zaragoza,False,1
+SAB 08.11.2025,16:15,LALIGA HYPERMOTION,SD Huesca,2,FC Andorra,2,"('El Alcoraz', 9128)",Huesca,True,4
+MIE 05.11.2025,20:00,LALIGA HYPERMOTION,Real Sociedad B,2,SD Huesca,0,"('Estadio Zubieta', 2500)",San Sebastián,False,2
+SAB 01.11.2025,18:30,LALIGA HYPERMOTION,Albacete BP,2,SD Huesca,1,"('Carlos Belmonte', 18000)",Albacete,False,3
+VIE 24.10.2025,20:30,LALIGA HYPERMOTION,SD Huesca,1,UD Las Palmas,1,"('El Alcoraz', 9128)",Huesca,True,2
+DOM 12.10.2025,18:30,LALIGA HYPERMOTION,Cádiz CF,1,SD Huesca,0,"('Nuevo Mirandilla', 20724)",Cádiz,False,1
+SAB 04.10.2025,18:30,LALIGA HYPERMOTION,SD Huesca,2,Burgos CF,1,"('El Alcoraz', 9128)",Huesca,True,3
+DOM 28.09.2025,21:00,LALIGA HYPERMOTION,SD Huesca,0,Granada CF,1,"('El Alcoraz', 9128)",Huesca,True,1
+VIE 19.09.2025,20:30,LALIGA HYPERMOTION,RC Deportivo,4,SD Huesca,0,"('Abanca-Riazor', 32490)",La Coruña,False,4
+SAB 13.09.2025,18:30,LALIGA HYPERMOTION,SD Huesca,1,Málaga CF,0,"('El Alcoraz', 9128)",Huesca,True,1
+DOM 07.09.2025,14:00,LALIGA HYPERMOTION,AD Ceuta FC,2,SD Huesca,1,"('Alfonso Murube', 6500)",Ceuta,False,3
+LUN 01.09.2025,19:30,LALIGA HYPERMOTION,SD Huesca,2,SD Eibar,1,"('El Alcoraz', 9128)",Huesca,True,3
+SAB 23.08.2025,17:00,LALIGA HYPERMOTION,CD Mirandés,0,SD Huesca,1,"('Anduva', 5759)",Miranda de Ebro,False,1
+DOM 17.08.2025,21:30,LALIGA HYPERMOTION,SD Huesca,1,CD Leganés,1,"('El Alcoraz', 9128)",Huesca,True,2
+DOM 25.01.2026,16:15,LALIGA HYPERMOTION,SD Eibar,1,UD Almería,0,"('Ipurúa', 8164)",Éibar,False,1
+SAB 17.01.2026,21:00,LALIGA HYPERMOTION,UD Almería,1,RC Deportivo,2,"('UD Almería Stadium', 18331)",Almería,True,3
+SAB 10.01.2026,14:00,LALIGA HYPERMOTION,CD Mirandés,2,UD Almería,2,"('Anduva', 5759)",Miranda de Ebro,False,4
+SAB 03.01.2026,16:15,LALIGA HYPERMOTION,UD Almería,3,Granada CF,2,"('UD Almería Stadium', 18331)",Almería,True,5
+DOM 21.12.2025,14:00,LALIGA HYPERMOTION,Málaga CF,2,UD Almería,1,"('La Rosaleda', 30044)",Málaga,False,3
+DOM 14.12.2025,18:30,LALIGA HYPERMOTION,UD Almería,1,Burgos CF,2,"('UD Almería Stadium', 18331)",Almería,True,3
+SAB 06.12.2025,14:00,LALIGA HYPERMOTION,FC Andorra,1,UD Almería,2,"(""Nou Estadi d'Encamp"", 5600)",Andorra la Vieja,False,3
+SAB 29.11.2025,18:30,LALIGA HYPERMOTION,UD Almería,0,SD Huesca,0,"('UD Almería Stadium', 18331)",Almería,True,0
+MIE 26.11.2025,19:00,LALIGA HYPERMOTION,AD Ceuta FC,3,UD Almería,2,"('Alfonso Murube', 6500)",Ceuta,False,5
+SAB 22.11.2025,18:30,LALIGA HYPERMOTION,CD Leganés,0,UD Almería,3,"('Ontime Butarque', 13089)",Leganés,False,3
+DOM 16.11.2025,16:15,LALIGA HYPERMOTION,UD Almería,3,Cádiz CF,0,"('UD Almería Stadium', 18331)",Almería,True,3
+SAB 01.11.2025,21:00,LALIGA HYPERMOTION,UD Almería,3,SD Eibar,1,"('UD Almería Stadium', 18331)",Almería,True,4
+DOM 26.10.2025,18:30,LALIGA HYPERMOTION,UD Almería,1,CD Castellón,0,"('UD Almería Stadium', 18331)",Almería,True,1
+DOM 19.10.2025,18:30,LALIGA HYPERMOTION,Córdoba CF,1,UD Almería,1,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,False,2
+SAB 11.10.2025,18:30,LALIGA HYPERMOTION,UD Almería,4,Real Zaragoza,2,"('UD Almería Stadium', 18331)",Almería,True,6
+SAB 04.10.2025,16:15,LALIGA HYPERMOTION,RC Deportivo,1,UD Almería,1,"('Abanca-Riazor', 32490)",La Coruña,False,2
+SAB 27.09.2025,21:00,LALIGA HYPERMOTION,UD Las Palmas,0,UD Almería,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,False,1
+SAB 20.09.2025,21:00,LALIGA HYPERMOTION,UD Almería,2,Real Sporting,1,"('UD Almería Stadium', 18331)",Almería,True,3
+SAB 13.09.2025,21:00,LALIGA HYPERMOTION,Real Valladolid,3,UD Almería,1,"('José Zorrilla', 27618)",Valladolid,False,4
+DOM 07.09.2025,18:30,LALIGA HYPERMOTION,UD Almería,2,Racing de Santander,3,"('UD Almería Stadium', 18331)",Almería,True,5
+VIE 29.08.2025,19:30,LALIGA HYPERMOTION,Real Sociedad B,2,UD Almería,2,"('Estadio Zubieta', 2500)",San Sebastián,False,4
+DOM 24.08.2025,19:30,LALIGA HYPERMOTION,Cultural Leonesa,0,UD Almería,1,"('Reino de León', 13346)",León,False,1
+LUN 18.08.2025,21:30,LALIGA HYPERMOTION,UD Almería,4,Albacete BP,4,"('UD Almería Stadium', 18331)",Almería,True,8
+SAB 24.01.2026,18:30,LALIGA HYPERMOTION,UD Las Palmas,1,Córdoba CF,2,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,True,3
+DOM 18.01.2026,16:15,LALIGA HYPERMOTION,Racing de Santander,4,UD Las Palmas,1,"('El Sardinero', 21514)",Santander,False,5
+SAB 10.01.2026,18:30,LALIGA HYPERMOTION,UD Las Palmas,1,RC Deportivo,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,True,2
+DOM 04.01.2026,18:30,LALIGA HYPERMOTION,Real Zaragoza,1,UD Las Palmas,2,"('Ibercaja Estadio', 20103)",Zaragoza,False,3
+SAB 20.12.2025,21:00,LALIGA HYPERMOTION,UD Las Palmas,4,Cultural Leonesa,0,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,True,4
+DOM 14.12.2025,21:00,LALIGA HYPERMOTION,AD Ceuta FC,1,UD Las Palmas,1,"('Alfonso Murube', 6500)",Ceuta,False,2
+LUN 08.12.2025,18:30,LALIGA HYPERMOTION,UD Las Palmas,0,CD Mirandés,0,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,True,0
+DOM 30.11.2025,21:00,LALIGA HYPERMOTION,CD Castellón,1,UD Las Palmas,0,"('Skyfi Castalia', 15500)",Castellón de la Plana,False,1
+VIE 21.11.2025,20:30,LALIGA HYPERMOTION,UD Las Palmas,2,Albacete BP,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,True,3
+VIE 14.11.2025,20:30,LALIGA HYPERMOTION,Real Valladolid,0,UD Las Palmas,1,"('José Zorrilla', 27618)",Valladolid,False,1
+DOM 09.11.2025,14:00,LALIGA HYPERMOTION,UD Las Palmas,3,Racing de Santander,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,True,4
+DOM 02.11.2025,16:15,LALIGA HYPERMOTION,Real Sporting,0,UD Las Palmas,0,"('El Molinón', 30000)",Gijón,False,0
+VIE 24.10.2025,20:30,LALIGA HYPERMOTION,SD Huesca,1,UD Las Palmas,1,"('El Alcoraz', 9128)",Huesca,False,2
+DOM 19.10.2025,21:00,LALIGA HYPERMOTION,UD Las Palmas,3,SD Eibar,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,True,4
+VIE 10.10.2025,20:30,LALIGA HYPERMOTION,Granada CF,0,UD Las Palmas,0,"('Nuevo Los Cármenes', 19336)",Granada,False,0
+DOM 05.10.2025,21:00,LALIGA HYPERMOTION,UD Las Palmas,1,Cádiz CF,0,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,True,1
+SAB 27.09.2025,21:00,LALIGA HYPERMOTION,UD Las Palmas,0,UD Almería,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,True,1
+SAB 20.09.2025,18:30,LALIGA HYPERMOTION,CD Leganés,0,UD Las Palmas,1,"('Ontime Butarque', 13089)",Leganés,False,1
+VIE 12.09.2025,20:30,LALIGA HYPERMOTION,UD Las Palmas,2,Real Sociedad B,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,True,3
+DOM 07.09.2025,16:15,LALIGA HYPERMOTION,Burgos CF,0,UD Las Palmas,0,"('El Plantío', 12194)",Burgos,False,0
+DOM 31.08.2025,19:30,LALIGA HYPERMOTION,UD Las Palmas,0,Málaga CF,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,True,1
+LUN 25.08.2025,21:30,LALIGA HYPERMOTION,Córdoba CF,1,UD Las Palmas,3,"('Bahrain Victorious Nuevo Arcángel', 21822)",Córdoba,False,4
+DOM 17.08.2025,21:30,LALIGA HYPERMOTION,UD Las Palmas,1,FC Andorra,1,"('Estadio de Gran Canaria', 32400)",Las Palmas de Gran Canaria,True,2
