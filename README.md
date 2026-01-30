@@ -2,6 +2,6 @@
 
 Juanjo Fernández Muñoz
 
-Xavi Bellver Fernández
+Xavier Bellver Fernández
 
 David Gracia Viana
